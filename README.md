@@ -1,4 +1,4 @@
-# Individual Web Index（网页索引）
+# Old Individual Web Index（网页索引旧版本）
 
 [![data update][data-update-image]][data-update-url]
 [![GitHub stars][stars-image]][stars-url]
@@ -63,8 +63,8 @@
 如果您对这个项目有任何问题或询问，可以通过电子邮件联系我：[nowscott@qq.com](mailto:nowscott@qq.com)
 
 
-[data-update-url]:https://github.com/NowScott/web_database/actions/workflows/scraping.yml "数据更新"
-[data-update-image]:https://img.shields.io/github/actions/workflow/status/NowScott/IndWebIndex/scraping.yml?label=data%20update
+[data-update-url]:https://github.com/nowscott/OldIndWebIndex/actions/workflows/scraping.yml "数据更新"
+[data-update-image]:https://github.com/nowscott/OldIndWebIndex/actions/workflows/scraping.yml/badge.svg
 [stars-url]:https://github.com/NowScott/IndWebIndex/stargazers "星标"
 [stars-image]: https://img.shields.io/github/stars/NowScott/IndWebIndex?label=Star
 [forks-url]: https://github.com/NowScott/IndWebIndex/forks "复刻"
