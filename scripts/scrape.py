@@ -8,7 +8,7 @@ import traceback  # 引入 traceback 用于打印详细的错误信息
 # dotenv_path = '.env'
 # load_dotenv(dotenv_path)
 
-notion = Client(auth=os.getenv("ACCESS_TOKEN"))
+notion = Client(auth=os.getenv("NOTION_TOKEN"))
 database_id = os.getenv("DATABASE_ID")
 
 def process_data(pages):
