@@ -1,5 +1,15 @@
 [
     {
+        "name": "eSheep",
+        "web": "https://www.esheep.com/app",
+        "tags": [
+            "🤖AI",
+            "🖼️图片"
+        ],
+        "brief": "体验在线的WebUI和ComfyUI",
+        "state": "正常"
+    },
+    {
         "name": "数学求解",
         "web": "https://zs.symbolab.com/",
         "tags": [
@@ -1860,7 +1870,7 @@
     },
     {
         "name": "X",
-        "web": "https://twitter.com/",
+        "web": "https://x.com",
         "tags": [
             "👁️‍🗨️媒体"
         ],
