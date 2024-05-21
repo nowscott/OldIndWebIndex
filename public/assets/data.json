@@ -1,5 +1,14 @@
 [
     {
+        "name": "01万物",
+        "web": "https://lingyiwanwu.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "AI工作平台与大模型开发平台",
+        "state": "正常"
+    },
+    {
         "name": "eSheep",
         "web": "https://www.esheep.com/app",
         "tags": [
