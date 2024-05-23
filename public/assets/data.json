@@ -1,5 +1,24 @@
 [
     {
+        "name": "拼字幕",
+        "web": "https://www.pinzimu.com/",
+        "tags": [
+            "🖼️图片",
+            "🔧工具"
+        ],
+        "brief": "一键免费生成字幕拼图",
+        "state": "正常"
+    },
+    {
+        "name": "扣子",
+        "web": "https://www.coze.cn/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "一站式 AI Bot 开发平台",
+        "state": "正常"
+    },
+    {
         "name": "woc",
         "web": "https://woc.space/",
         "tags": [
