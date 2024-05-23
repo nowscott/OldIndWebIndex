@@ -1,5 +1,14 @@
 [
     {
+        "name": "Coze",
+        "web": "https://www.coze.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "一站式 AI Bot 开发平台",
+        "state": "正常"
+    },
+    {
         "name": "拼字幕",
         "web": "https://www.pinzimu.com/",
         "tags": [
