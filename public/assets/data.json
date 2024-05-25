@@ -1,5 +1,45 @@
 [
     {
+        "name": "9to5mac",
+        "web": "https://9to5mac.com/",
+        "tags": [
+            "🍎Apple",
+            "🗞️新闻"
+        ],
+        "brief": "苹果新闻和传言",
+        "state": "正常"
+    },
+    {
+        "name": "汤姆硬件",
+        "web": "https://www.tomshardware.com/news",
+        "tags": [
+            "📱数码",
+            "🗞️新闻"
+        ],
+        "brief": "Tom's Hardware 是您进入科技世界的专家指南",
+        "state": "正常"
+    },
+    {
+        "name": "wccftech",
+        "web": "https://wccftech.com/",
+        "tags": [
+            "📱数码",
+            "🗞️新闻"
+        ],
+        "brief": "最新的硬件、移动数码、游戏的资讯",
+        "state": "正常"
+    },
+    {
+        "name": "Apple传言",
+        "web": "https://www.macrumors.com/",
+        "tags": [
+            "🍎Apple",
+            "🗞️新闻"
+        ],
+        "brief": "关于苹果的新闻和传言",
+        "state": "正常"
+    },
+    {
         "name": "墨滴",
         "web": "https://mdnice.com/",
         "tags": [
