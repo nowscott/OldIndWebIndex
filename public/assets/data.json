@@ -1,5 +1,24 @@
 [
     {
+        "name": "DuckGo",
+        "web": "https://start.duckduckgo.com/",
+        "tags": [
+            "🔍搜索"
+        ],
+        "brief": "搜索但保护你的隐私",
+        "state": "正常"
+    },
+    {
+        "name": "骇客新闻",
+        "web": "https://news.ycombinator.com/",
+        "tags": [
+            "📱数码",
+            "🗞️新闻"
+        ],
+        "brief": "一个专注于计算机科学和创业的社交新闻网站",
+        "state": "正常"
+    },
+    {
         "name": "9to5mac",
         "web": "https://9to5mac.com/",
         "tags": [
