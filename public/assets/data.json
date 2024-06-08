@@ -1,5 +1,15 @@
 [
     {
+        "name": " Civitai",
+        "web": "https://civitai.com/",
+        "tags": [
+            "🤖AI",
+            "🖼️图片"
+        ],
+        "brief": "Civitai是一个专注于分享和交流AI生成艺术及其相关资源的社区平台。",
+        "state": "正常"
+    },
+    {
         "name": "DuckGo",
         "web": "https://start.duckduckgo.com/",
         "tags": [
