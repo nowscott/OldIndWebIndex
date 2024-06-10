@@ -1,5 +1,14 @@
 [
     {
+        "name": "Jumblie",
+        "web": "https://jumblie.com/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "每日挑战，找出混在一起的四个指定主题单词",
+        "state": "正常"
+    },
+    {
         "name": " Civitai",
         "web": "https://civitai.com/",
         "tags": [
