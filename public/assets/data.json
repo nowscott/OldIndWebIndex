@@ -1,5 +1,15 @@
 [
     {
+        "name": "找图标",
+        "web": "https://pushkeen.ai/appstore-icons",
+        "tags": [
+            "✒️设计",
+            "🔍搜索"
+        ],
+        "brief": "快速下载appstore的图标",
+        "state": "正常"
+    },
+    {
         "name": "快捷键库",
         "web": "https://hotkeycheatsheet.com/zh",
         "tags": [
