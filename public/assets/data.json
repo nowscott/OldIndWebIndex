@@ -1,5 +1,24 @@
 [
     {
+        "name": "颜色代码",
+        "web": "https://encycolorpedia.cn/html",
+        "tags": [
+            "🎈色彩",
+            "🐱Code"
+        ],
+        "brief": "提供很多的颜色、不同国家、不同应用场景",
+        "state": "正常"
+    },
+    {
+        "name": "无尽道路",
+        "web": "https://slowroads.io/",
+        "tags": [
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "放松休闲、开车游戏",
+        "state": "正常"
+    },
+    {
         "name": "Jumblie",
         "web": "https://jumblie.com/",
         "tags": [
