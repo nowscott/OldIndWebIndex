@@ -1,5 +1,14 @@
 [
     {
+        "name": "唤醒",
+        "web": "https://www.keepscreenon.com/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "保持屏幕唤醒",
+        "state": "正常"
+    },
+    {
         "name": "颜色代码",
         "web": "https://encycolorpedia.cn/html",
         "tags": [
