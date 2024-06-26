@@ -1,5 +1,14 @@
 [
     {
+        "name": "快捷键库",
+        "web": "https://hotkeycheatsheet.com/zh",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "通过提供常用快捷键的快速访问来帮助用户提高生产力",
+        "state": "正常"
+    },
+    {
         "name": "唤醒",
         "web": "https://www.keepscreenon.com/",
         "tags": [
