@@ -1,5 +1,14 @@
 [
     {
+        "name": "硅基流动",
+        "web": "https://siliconflow.cn/zh-cn/siliconcloud",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "提供免费的国产大模型api",
+        "state": "正常"
+    },
+    {
         "name": "找图标",
         "web": "https://pushkeen.ai/appstore-icons",
         "tags": [
