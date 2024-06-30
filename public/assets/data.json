@@ -1,5 +1,15 @@
 [
     {
+        "name": "Cobalt",
+        "web": "https://cobalt.tools/",
+        "tags": [
+            "🔧工具",
+            "📺视频"
+        ],
+        "brief": "资源下载工具",
+        "state": "正常"
+    },
+    {
         "name": "硅基流动",
         "web": "https://siliconflow.cn/zh-cn/siliconcloud",
         "tags": [
@@ -149,7 +159,7 @@
         "tags": [
             "🤖AI"
         ],
-        "brief": "一站式 AI Bot 开发平台",
+        "brief": "一站式 AI Bot 开发平台（En）",
         "state": "正常"
     },
     {
@@ -168,7 +178,7 @@
         "tags": [
             "🤖AI"
         ],
-        "brief": "一站式 AI Bot 开发平台",
+        "brief": "一站式 AI Bot 开发平台（CN）",
         "state": "正常"
     },
     {
