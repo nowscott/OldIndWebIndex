@@ -1,5 +1,14 @@
 [
     {
+        "name": "商量",
+        "web": "https://chat.sensetime.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "商汤自研的超千亿参数语言大模型应用平台",
+        "state": "正常"
+    },
+    {
         "name": "Cobalt",
         "web": "https://cobalt.tools/",
         "tags": [
