@@ -1,5 +1,25 @@
 [
     {
+        "name": "面试鸭",
+        "web": "https://www.mianshiya.com/",
+        "tags": [
+            "🧠学习",
+            "🐱Code"
+        ],
+        "brief": "提供了很多面试题",
+        "state": "正常"
+    },
+    {
+        "name": "菜鸟教程",
+        "web": "https://www.runoob.com/",
+        "tags": [
+            "🐱Code",
+            "🧠学习"
+        ],
+        "brief": "提供了编程的基础技术教程",
+        "state": "正常"
+    },
+    {
         "name": "对牛弹琴",
         "web": "https://chat.nowscott.top/",
         "tags": [
