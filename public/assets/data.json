@@ -1,5 +1,15 @@
 [
     {
+        "name": "fydeos",
+        "web": "https://fydeos.com/",
+        "tags": [
+            "🧰软件",
+            "🏠主页"
+        ],
+        "brief": "基于chromeos的一个桌面系统",
+        "state": "正常"
+    },
+    {
         "name": "面试鸭",
         "web": "https://www.mianshiya.com/",
         "tags": [
