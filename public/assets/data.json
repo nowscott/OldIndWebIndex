@@ -1,5 +1,14 @@
 [
     {
+        "name": "闲鱼",
+        "web": "https://www.goofish.com/",
+        "tags": [
+            "🛒购物"
+        ],
+        "brief": "二手交易平台",
+        "state": "正常"
+    },
+    {
         "name": "fydeos",
         "web": "https://fydeos.com/",
         "tags": [
