@@ -1,5 +1,14 @@
 [
     {
+        "name": "微信网页版",
+        "web": "https://filehelper.weixin.qq.com/",
+        "tags": [
+            "📁文件"
+        ],
+        "brief": "传文件",
+        "state": "正常"
+    },
+    {
         "name": "闲鱼",
         "web": "https://www.goofish.com/",
         "tags": [
