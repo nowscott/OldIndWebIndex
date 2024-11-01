@@ -1,5 +1,24 @@
 [
     {
+        "name": "Kimi",
+        "web": "https://kimi.moonshot.cn/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "月之暗面ai",
+        "state": "正常"
+    },
+    {
+        "name": "秘塔",
+        "web": "https://metaso.cn/",
+        "tags": [
+            "🤖AI",
+            "🔍搜索"
+        ],
+        "brief": "没有广告，直达结果",
+        "state": "正常"
+    },
+    {
         "name": "打开文件",
         "web": "https://openfiles.online/",
         "tags": [
@@ -1311,7 +1330,7 @@
     },
     {
         "name": "ChatGPT",
-        "web": "https://chat.openai.com/",
+        "web": "https://chatgpt.com",
         "tags": [
             "🤖AI"
         ],
