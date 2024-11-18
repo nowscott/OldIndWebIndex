@@ -1,5 +1,23 @@
 [
     {
+        "name": "Reddit",
+        "web": "https://www.reddit.com/",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "国外小红书",
+        "state": "正常"
+    },
+    {
+        "name": "今日黄金",
+        "web": "https://www.5huangjin.com/",
+        "tags": [
+            "📈基金"
+        ],
+        "brief": "查看黄金价格走向",
+        "state": "正常"
+    },
+    {
         "name": "Kimi",
         "web": "https://kimi.moonshot.cn/",
         "tags": [
@@ -33,7 +51,7 @@
         "tags": [
             "📁文件"
         ],
-        "brief": "传文件",
+        "brief": "微信传文件",
         "state": "正常"
     },
     {
