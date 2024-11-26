@@ -1,5 +1,53 @@
 [
     {
+        "name": "飞牛",
+        "web": "https://www.fnnas.com/",
+        "tags": [
+            "📁文件",
+            "🏠主页"
+        ],
+        "brief": "一个基于debian的nas系统",
+        "state": "正常"
+    },
+    {
+        "name": "Ssgo",
+        "web": "https://ssgo.app/",
+        "tags": [
+            "🔍搜索",
+            "📦资源"
+        ],
+        "brief": "阿里云盘搜索引擎",
+        "state": "正常"
+    },
+    {
+        "name": "Mac清理",
+        "web": "https://www.prettyclean.cc/zh",
+        "tags": [
+            "🍎Apple",
+            "🧰软件"
+        ],
+        "brief": "好用的 macOS 磁盘清理工具 免费下载",
+        "state": "正常"
+    },
+    {
+        "name": "shortcut",
+        "web": "https://sspai.com/page/playbook/zh-CN",
+        "tags": [
+            "🍎Apple"
+        ],
+        "brief": "ssp的快捷指令导航站",
+        "state": "正常"
+    },
+    {
+        "name": "模拟扫描",
+        "web": "https://lookscanned.io/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "把pdf模拟出扫描的效果",
+        "state": "正常"
+    },
+    {
         "name": "Reddit",
         "web": "https://www.reddit.com/",
         "tags": [
@@ -1591,6 +1639,15 @@
             "🕹️游戏"
         ],
         "brief": "汉字猜字游戏",
+        "state": "正常"
+    },
+    {
+        "name": "赛博耶稣",
+        "web": "https://yesu.ink/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "一个配备有ChatGPT的耶稣陪伴在您的身边",
         "state": "正常"
     },
     {
