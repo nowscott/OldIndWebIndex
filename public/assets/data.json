@@ -1,5 +1,14 @@
 [
     {
+        "name": "spaceship",
+        "web": "https://www.spaceship.com/zh/",
+        "tags": [
+            "☁️云"
+        ],
+        "brief": "购买域名的网站",
+        "state": "正常"
+    },
+    {
         "name": "x2webp",
         "web": "https://xtoimage.com/",
         "tags": [
