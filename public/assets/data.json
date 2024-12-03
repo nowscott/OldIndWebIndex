@@ -1,5 +1,14 @@
 [
     {
+        "name": "RoutineHub",
+        "web": "https://routinehub.co/",
+        "tags": [
+            "🍎Apple"
+        ],
+        "brief": "发现、共享和版本控制 Apple 快捷指令",
+        "state": "正常"
+    },
+    {
         "name": "Switch520",
         "web": "https://www.gamer520.com/",
         "tags": [
