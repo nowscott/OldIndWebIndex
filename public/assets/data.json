@@ -1,5 +1,15 @@
 [
     {
+        "name": "小报童",
+        "web": "https://xiaobot.net/home.html",
+        "tags": [
+            "🏠主页",
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "付费专栏，体面而用心地创作",
+        "state": "正常"
+    },
+    {
         "name": "Switch618",
         "web": "https://www.switch618.com/",
         "tags": [
