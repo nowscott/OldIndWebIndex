@@ -1,5 +1,15 @@
 [
     {
+        "name": "Switch618",
+        "web": "https://www.switch618.com/",
+        "tags": [
+            "🕹️游戏",
+            "📦资源"
+        ],
+        "brief": "Switch618|免费Switch游戏PC游戏下载 - SWITCH618游戏公益分享",
+        "state": "正常"
+    },
+    {
         "name": "RoutineHub",
         "web": "https://routinehub.co/",
         "tags": [
@@ -12,7 +22,8 @@
         "name": "Switch520",
         "web": "https://www.gamer520.com/",
         "tags": [
-            "📦资源"
+            "📦资源",
+            "🕹️游戏"
         ],
         "brief": "switch游戏下载,PC游戏下载,switch破解游戏下载,PC破解游戏下载,Switch520,xxxxx520",
         "state": "正常"
