@@ -1,5 +1,16 @@
 [
     {
+        "name": "Devv ai",
+        "web": "https://devv.ai/zh",
+        "tags": [
+            "🤖AI",
+            "🔍搜索",
+            "🐱Code"
+        ],
+        "brief": "一款专为程序员朋友设计的人工智能搜索引擎",
+        "state": "正常"
+    },
+    {
         "name": "小报童",
         "web": "https://xiaobot.net/home.html",
         "tags": [
@@ -360,7 +371,7 @@
         "state": "正常"
     },
     {
-        "name": "Apple传言",
+        "name": "🍎传言",
         "web": "https://www.macrumors.com/",
         "tags": [
             "🍎Apple",
@@ -679,7 +690,7 @@
         "state": "正常"
     },
     {
-        "name": "HuggingChat",
+        "name": "🫂Chat",
         "web": "https://huggingface.co/chat/",
         "tags": [
             "🤖AI"
@@ -959,7 +970,7 @@
         "state": "正常"
     },
     {
-        "name": "instagram",
+        "name": "INS",
         "web": "https://www.instagram.com/",
         "tags": [
             "👁️‍🗨️媒体"
@@ -1283,7 +1294,7 @@
         "state": "正常"
     },
     {
-        "name": "隔离食用手册",
+        "name": "隔离食用",
         "web": "https://cook.yunyoujun.cn/",
         "tags": [
             "🔹其他"
@@ -1367,7 +1378,7 @@
         "state": "正常"
     },
     {
-        "name": "sojson在线",
+        "name": "sojson",
         "web": "https://www.sojson.com/",
         "tags": [
             "⚙️转换"
@@ -1661,7 +1672,7 @@
         "state": "正常"
     },
     {
-        "name": "AppleStore",
+        "name": "🍎Store",
         "web": "https://www.apple.com.cn/retail/storelist/",
         "tags": [
             "🍎Apple",
@@ -1811,7 +1822,7 @@
         "state": "正常"
     },
     {
-        "name": "monkeytype",
+        "name": "🐒type",
         "web": "https://monkeytype.com/",
         "tags": [
             "⛹️‍♀️娱乐"
