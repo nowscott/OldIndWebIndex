@@ -1,5 +1,25 @@
 [
     {
+        "name": "RetroCard",
+        "web": "https://retro.iwhy.dev/",
+        "tags": [
+            "🖼️图片",
+            "🔧工具"
+        ],
+        "brief": "文字卡片制作工具",
+        "state": "正常"
+    },
+    {
+        "name": "Text2Card",
+        "web": "https://card.pomodiary.com/",
+        "tags": [
+            "🔧工具",
+            "🖼️图片"
+        ],
+        "brief": "最简单的卡片制作工具，可记录您的想法和引言”",
+        "state": "正常"
+    },
+    {
         "name": "Devv ai",
         "web": "https://devv.ai/zh",
         "tags": [
