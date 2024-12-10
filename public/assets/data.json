@@ -1,5 +1,15 @@
 [
     {
+        "name": "识典古籍",
+        "web": "https://www.shidianguji.com/",
+        "tags": [
+            "🧠学习",
+            "📦资源"
+        ],
+        "brief": "北大和字节开发一个古籍在线阅读平台",
+        "state": "正常"
+    },
+    {
         "name": "RetroCard",
         "web": "https://retro.iwhy.dev/",
         "tags": [
