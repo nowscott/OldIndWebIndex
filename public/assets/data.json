@@ -1,5 +1,14 @@
 [
     {
+        "name": "Canva",
+        "web": "https://www.canva.cn",
+        "tags": [
+            "✒️设计"
+        ],
+        "brief": "轻松创建并分享专业设计。",
+        "state": "正常"
+    },
+    {
         "name": "识典古籍",
         "web": "https://www.shidianguji.com/",
         "tags": [
