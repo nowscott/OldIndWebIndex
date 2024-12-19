@@ -1,5 +1,26 @@
 [
     {
+        "name": "GitHub卡片",
+        "web": "https://github.cards/",
+        "tags": [
+            "🖼️图片",
+            "🐱Code"
+        ],
+        "brief": "创造个人GitHub卡片",
+        "state": "正常"
+    },
+    {
+        "name": "PostSpark",
+        "web": "https://postspark.app/",
+        "tags": [
+            "🔧工具",
+            "🖼️图片",
+            "🐱Code"
+        ],
+        "brief": "截图工具、推特、github贡献、代码",
+        "state": "正常"
+    },
+    {
         "name": "Canva",
         "web": "https://www.canva.cn",
         "tags": [
@@ -937,7 +958,7 @@
             "🐱Code",
             "🖼️图片"
         ],
-        "brief": "GitHub上缺失的星标历史图",
+        "brief": "GitHub上缺失的星标历史图，star-history",
         "state": "正常"
     },
     {
