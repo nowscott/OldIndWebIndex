@@ -1,5 +1,15 @@
 [
     {
+        "name": "符号",
+        "web": "https://symbl.cc/",
+        "tags": [
+            "🔧工具",
+            "📦资源"
+        ],
+        "brief": "Unicode 字符百科",
+        "state": "正常"
+    },
+    {
         "name": "GitHub卡片",
         "web": "https://github.cards/",
         "tags": [
