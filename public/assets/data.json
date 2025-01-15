@@ -1,5 +1,15 @@
 [
     {
+        "name": "仓库分享",
+        "web": "https://socialify.git.ci/",
+        "tags": [
+            "🖼️图片",
+            "🐱Code"
+        ],
+        "brief": "生成 github 仓库分享图",
+        "state": "正常"
+    },
+    {
         "name": "符号",
         "web": "https://symbl.cc/",
         "tags": [
