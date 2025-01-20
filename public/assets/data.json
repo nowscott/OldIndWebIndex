@@ -1,5 +1,24 @@
 [
     {
+        "name": "力扣",
+        "web": "https://leetcode.cn/",
+        "tags": [
+            "🐱Code",
+            "🧠学习"
+        ],
+        "brief": "题库",
+        "state": "正常"
+    },
+    {
+        "name": "DeepSeek",
+        "web": "https://chat.deepseek.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "国产 ai",
+        "state": "正常"
+    },
+    {
         "name": "仓库分享",
         "web": "https://socialify.git.ci/",
         "tags": [
