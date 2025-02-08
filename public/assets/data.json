@@ -1,5 +1,15 @@
 [
     {
+        "name": "flowith",
+        "web": "https://flowith.io/blank",
+        "tags": [
+            "🤖AI",
+            "🧠学习"
+        ],
+        "brief": "ai for work",
+        "state": "正常"
+    },
+    {
         "name": "力扣",
         "web": "https://leetcode.cn/",
         "tags": [
