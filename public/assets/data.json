@@ -1,5 +1,14 @@
 [
     {
+        "name": "Qwen",
+        "web": "https://chat.qwenlm.ai/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "Qwen2.5max",
+        "state": "正常"
+    },
+    {
         "name": "flowith",
         "web": "https://flowith.io/blank",
         "tags": [
