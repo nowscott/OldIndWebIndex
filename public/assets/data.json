@@ -1,5 +1,14 @@
 [
     {
+        "name": "腾讯元宝",
+        "web": "https://yuanbao.tencent.com/chat/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "接入了 deepseek 支持图片识别",
+        "state": "正常"
+    },
+    {
         "name": "Qwen",
         "web": "https://chat.qwenlm.ai/",
         "tags": [
