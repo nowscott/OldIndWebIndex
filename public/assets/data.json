@@ -1,5 +1,14 @@
 [
     {
+        "name": "Geek",
+        "web": "https://geekuninstaller.com/",
+        "tags": [
+            "🏠主页"
+        ],
+        "brief": "卸载工具的官网",
+        "state": "正常"
+    },
+    {
         "name": "腾讯元宝",
         "web": "https://yuanbao.tencent.com/chat/",
         "tags": [
