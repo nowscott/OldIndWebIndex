@@ -1,5 +1,14 @@
 [
     {
+        "name": "幕布",
+        "web": "https://mubu.com/home",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "思维导图网站",
+        "state": "正常"
+    },
+    {
         "name": "Geek",
         "web": "https://geekuninstaller.com/",
         "tags": [
