@@ -1,5 +1,35 @@
 [
     {
+        "name": "Emojiall",
+        "web": "https://www.emojiall.com/zh-hans",
+        "tags": [
+            "📦资源",
+            "🔧工具"
+        ],
+        "brief": "emoji大全",
+        "state": "正常"
+    },
+    {
+        "name": "台风网",
+        "web": "https://typhoon.slt.zj.gov.cn/#/",
+        "tags": [
+            "🔢数据",
+            "🔧工具"
+        ],
+        "brief": "查看台风路径",
+        "state": "正常"
+    },
+    {
+        "name": "Notion风格插画生成",
+        "web": "https://illustration.imglab.dev",
+        "tags": [
+            "🖼️图片",
+            "🔧工具"
+        ],
+        "brief": "一个Notion风格插画生成网站",
+        "state": "正常"
+    },
+    {
         "name": "资源库",
         "web": "https://hc1688.bio.link",
         "tags": [
@@ -31,7 +61,7 @@
     },
     {
         "name": "派欧算力云",
-        "web": "https://ppinfra.com/?utm_source=nowscott&utm_medium=referral_list",
+        "web": "https://ppio.cn/",
         "tags": [
             "🤖AI",
             "🔧工具",
