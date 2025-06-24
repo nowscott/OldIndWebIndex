@@ -1,5 +1,14 @@
 [
     {
+        "name": "复制符",
+        "web": "https://fzf.0211120.xyz/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "快速查找特殊符号，一键复制",
+        "state": "正常"
+    },
+    {
         "name": "Emojiall",
         "web": "https://www.emojiall.com/zh-hans",
         "tags": [
