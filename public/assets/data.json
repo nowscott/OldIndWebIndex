@@ -1,5 +1,14 @@
 [
     {
+        "name": "表情百科",
+        "web": "https://emojipedia.org/zh",
+        "tags": [
+            "📦资源"
+        ],
+        "brief": "emoji 百科",
+        "state": "正常"
+    },
+    {
         "name": "复制符",
         "web": "https://fzf.0211120.xyz/",
         "tags": [
