@@ -771,15 +771,6 @@
         "state": "正常"
     },
     {
-        "name": "Sudoku",
-        "web": "https://sudoku.nowscott.top/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "基于React的Sudoku",
-        "state": "正常"
-    },
-    {
         "name": "渐变色",
         "web": "https://uigradients.com/",
         "tags": [
