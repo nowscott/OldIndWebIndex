@@ -1,5 +1,14 @@
 [
     {
+        "name": "Apple参数",
+        "web": "https://hubweb.cn/",
+        "tags": [
+            "🍎Apple"
+        ],
+        "brief": "Apple 苹果产品参数中心",
+        "state": "正常"
+    },
+    {
         "name": "泡椒音乐",
         "web": "https://pjmp3.com/",
         "tags": [
