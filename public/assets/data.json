@@ -682,6 +682,15 @@
         "state": "正常"
     },
     {
+        "name": "拼图",
+        "web": "https://fulicat.com/lab/pintu/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "最简单的图片拼接网站",
+        "state": "正常"
+    },
+    {
         "name": "中国色",
         "web": "http://zhongguose.com/",
         "tags": [
