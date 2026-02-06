@@ -719,6 +719,26 @@
         "state": "正常"
     },
     {
+        "name": "纸由我",
+        "web": "https://paperme.toolooz.com/",
+        "tags": [
+            "🔧工具",
+            "🧠学习",
+            "📦资源"
+        ],
+        "brief": "自定义打印纸生成器",
+        "state": "正常"
+    },
+    {
+        "name": "AURA壁纸",
+        "web": "https://gallery.wallaura.cn",
+        "tags": [
+            "📦资源"
+        ],
+        "brief": "一个纯粹、简单、优雅的高清壁纸网站。",
+        "state": "正常"
+    },
+    {
         "name": "sojson",
         "web": "https://www.sojson.com/",
         "tags": [
