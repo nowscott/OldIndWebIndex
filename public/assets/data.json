@@ -787,6 +787,15 @@
         "state": "正常"
     },
     {
+        "name": "构石",
+        "web": "https://shitjournal.org/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "真理会过时，构石永恒。",
+        "state": "正常"
+    },
+    {
         "name": "开发者搜索",
         "web": "https://kaifa.baidu.com/",
         "tags": [
