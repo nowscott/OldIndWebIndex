@@ -560,15 +560,6 @@
         "state": "正常"
     },
     {
-        "name": "SpellingBee",
-        "web": "https://www.nytimes.com/puzzles/spelling-bee",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "很难的凑字游戏",
-        "state": "正常"
-    },
-    {
         "name": "eSheep",
         "web": "https://www.esheep.com/app",
         "tags": [
@@ -1172,15 +1163,6 @@
         "state": "正常"
     },
     {
-        "name": "对牛弹琴",
-        "web": "https://chat.nowscott.top/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "每一次对话，都是一场思想碰撞",
-        "state": "正常"
-    },
-    {
         "name": "woc",
         "web": "https://woc.space/",
         "tags": [
@@ -1696,15 +1678,6 @@
             "📒笔记"
         ],
         "brief": "快来学习Git！",
-        "state": "正常"
-    },
-    {
-        "name": "Wordle",
-        "web": "https://www.nytimes.com/games/wordle/index.html",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "很好玩的填字游戏",
         "state": "正常"
     },
     {
