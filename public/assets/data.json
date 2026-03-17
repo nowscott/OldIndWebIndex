@@ -798,6 +798,33 @@
         "state": "正常"
     },
     {
+        "name": "Gridland",
+        "web": "https://gridland.doublespeakgames.com/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "表面上看起来是个简单的三消游戏，实际上有着非常硬核的昼夜交替生存机制。",
+        "state": "正常"
+    },
+    {
+        "name": "ITQuiz",
+        "web": "x.0211120.xyz",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "信息技术练习平台",
+        "state": "正常"
+    },
+    {
+        "name": "Shapez",
+        "web": "https://shapez.io/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "一款极简风格的工厂建造游戏。",
+        "state": "正常"
+    },
+    {
         "name": "荔枝商店",
         "web": "https://lizhi.shop/",
         "tags": [
