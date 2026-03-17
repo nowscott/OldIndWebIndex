@@ -807,12 +807,48 @@
         "state": "正常"
     },
     {
+        "name": "小黑屋",
+        "web": "https://adarkroom.doublespeakgames.com/index.html?ignorebrowser=true&lang=zh_cn",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "极简的文字生存冒险游戏。开局屏幕上只有一个“生火”的按钮，随着剧情推进，你需要管理资源、分配工人，并带着有限的物资外出探索包含肉鸽元素的庞大地图。",
+        "state": "正常"
+    },
+    {
         "name": "ITQuiz",
-        "web": "x.0211120.xyz",
+        "web": "https://x.0211120.xyz/",
         "tags": [
             "🧠学习"
         ],
         "brief": "信息技术练习平台",
+        "state": "正常"
+    },
+    {
+        "name": "猫咪村庄",
+        "web": "https://kittensgame.com/web/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "一款极其硬核的纯文字资源管理游戏。你需要管理一个猫咪村庄，从砍树、采石开始，逐步发展出庞大的科技树、神学、甚至是太空工程。",
+        "state": "正常"
+    },
+    {
+        "name": "扫雷",
+        "web": "https://minesweeper.online/cn/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "这不是普通的扫雷。这是目前全网最专业的扫雷平台，包含了任务系统、装备掉落、全球排行榜和极高难度的超大地图。",
+        "state": "正常"
+    },
+    {
+        "name": "制造纸形",
+        "web": "https://www.decisionproblem.com/paperclips/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "你将扮演一个目标是“制造回形针”的 AI。游戏从点击制造单个回形针开始，随着算力和资源的积累，你会解锁自动交易、量子计算，最终走向探索宇宙和星际征服。",
         "state": "正常"
     },
     {
