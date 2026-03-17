@@ -1416,15 +1416,6 @@
         "state": "正常"
     },
     {
-        "name": "赛博耶稣",
-        "web": "https://yesu.ink/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "一个配备有ChatGPT的耶稣陪伴在您的身边",
-        "state": "正常"
-    },
-    {
         "name": "测速网",
         "web": "https://www.speedtest.cn/",
         "tags": [
@@ -2610,15 +2601,6 @@
             "🖼️图片"
         ],
         "brief": "Civitai是一个专注于分享和交流AI生成艺术及其相关资源的社区平台。",
-        "state": "正常"
-    },
-    {
-        "name": "SQLKiller",
-        "web": "https://www.sqlkiller.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "直接描述你的取数需求，一键生成SQL",
         "state": "正常"
     },
     {
