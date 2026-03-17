@@ -807,6 +807,15 @@
         "state": "正常"
     },
     {
+        "name": "yorg",
+        "web": "https://yorg.io/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "这是一款结合了供应链管理和僵尸塔防的游戏。白天你需要铺设矿机、规划最优的资源运输网络，非常考验资源调度能力；到了晚上，则要利用收集到的资源建造防御阵地，抵御尸潮。",
+        "state": "正常"
+    },
+    {
         "name": "小黑屋",
         "web": "https://adarkroom.doublespeakgames.com/index.html?ignorebrowser=true&lang=zh_cn",
         "tags": [
