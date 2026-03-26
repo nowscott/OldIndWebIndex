@@ -881,6 +881,16 @@
         "state": "正常"
     },
     {
+        "name": "slidev",
+        "web": "https://cn.sli.dev/",
+        "tags": [
+            "🔧工具",
+            "🐱Code"
+        ],
+        "brief": "为开发者打造的演示文稿工具",
+        "state": "正常"
+    },
+    {
         "name": "Apple.cn",
         "web": "https://www.apple.com.cn/",
         "tags": [
