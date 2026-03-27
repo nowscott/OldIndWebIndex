@@ -891,6 +891,15 @@
         "state": "正常"
     },
     {
+        "name": "fixmac",
+        "web": "https://fix.qiaomu.ai/",
+        "tags": [
+            "🍎Apple"
+        ],
+        "brief": "提示「已损坏」或「无法验证开发者」？把应用拖进来，帮你生成修复命令",
+        "state": "正常"
+    },
+    {
         "name": "Apple.cn",
         "web": "https://www.apple.com.cn/",
         "tags": [
