@@ -40,7 +40,7 @@
     },
     {
         "name": "Potplayer",
-        "web": "https://potplayer.daum.net/",
+        "web": "https://potplayer.info/",
         "tags": [
             "🧰软件"
         ],
@@ -471,7 +471,7 @@
         "state": "正常"
     },
     {
-        "name": "派欧算力云",
+        "name": "派欧云",
         "web": "https://ppio.cn/",
         "tags": [
             "🤖AI",
@@ -511,16 +511,6 @@
         "state": "正常"
     },
     {
-        "name": "Notion风格",
-        "web": "https://illustration.imglab.dev",
-        "tags": [
-            "🖼️图片",
-            "🔧工具"
-        ],
-        "brief": "一个Notion风格插画生成网站",
-        "state": "正常"
-    },
-    {
         "name": "Coze",
         "web": "https://www.coze.com/",
         "tags": [
@@ -557,16 +547,6 @@
             "🗞️新闻"
         ],
         "brief": "关于苹果的新闻和传言",
-        "state": "正常"
-    },
-    {
-        "name": "eSheep",
-        "web": "https://www.esheep.com/app",
-        "tags": [
-            "🤖AI",
-            "🖼️图片"
-        ],
-        "brief": "体验在线的WebUI和ComfyUI",
         "state": "正常"
     },
     {
@@ -897,6 +877,15 @@
             "🍎Apple"
         ],
         "brief": "提示「已损坏」或「无法验证开发者」？把应用拖进来，帮你生成修复命令",
+        "state": "正常"
+    },
+    {
+        "name": "HeroSMS",
+        "web": "https://hero-sms.com/cn",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "在线接收短信 & API 访问",
         "state": "正常"
     },
     {
@@ -1472,15 +1461,6 @@
         "state": "正常"
     },
     {
-        "name": "猜中国省份",
-        "web": "https://vultr.youmu.moe/quiz/",
-        "tags": [
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "你对我们的国家熟悉嘛？",
-        "state": "正常"
-    },
-    {
         "name": "中文手写板",
         "web": "https://handraw.top/",
         "tags": [
@@ -1530,7 +1510,7 @@
         "state": "正常"
     },
     {
-        "name": "微信网页版",
+        "name": "微信网页",
         "web": "https://filehelper.weixin.qq.com/",
         "tags": [
             "📁文件"
@@ -1597,7 +1577,7 @@
         "state": "正常"
     },
     {
-        "name": "硬件测试仪",
+        "name": "硬件测试",
         "web": "https://hardwaretester.com/",
         "tags": [
             "🔧工具"
@@ -1606,7 +1586,7 @@
         "state": "正常"
     },
     {
-        "name": "GropAI",
+        "name": "Groq",
         "web": "https://groq.com/",
         "tags": [
             "🤖AI"
@@ -1935,7 +1915,7 @@
         "state": "正常"
     },
     {
-        "name": "UU在线工具",
+        "name": "UU工具",
         "web": "https://uutool.cn/",
         "tags": [
             "🔧工具"
@@ -2055,15 +2035,6 @@
             "📒笔记"
         ],
         "brief": "在线编辑LaTeX公式的工具",
-        "state": "正常"
-    },
-    {
-        "name": "国外手机号",
-        "web": "https://sms-activate.org",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "虚拟号码来在线接受短信",
         "state": "正常"
     },
     {
@@ -2261,16 +2232,7 @@
         "state": "正常"
     },
     {
-        "name": "ChatDoc",
-        "web": "https://chatdoc.com/chatdoc/#/upload",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "一个文件阅读助手，可以快速从文档中提取、定位和汇总信息",
-        "state": "正常"
-    },
-    {
-        "name": "壁纸",
+        "name": "wallhaven",
         "web": "https://wallhaven.cc/",
         "tags": [
             "🖼️图片",
@@ -2413,7 +2375,7 @@
         "state": "正常"
     },
     {
-        "name": "流程图导图",
+        "name": "processon",
         "web": "https://www.processon.com/",
         "tags": [
             "🖼️图片",
@@ -2441,7 +2403,7 @@
         "state": "正常"
     },
     {
-        "name": "星标历史图",
+        "name": "星标历史",
         "web": "https://star-history.com/",
         "tags": [
             "🐱Code",
@@ -2451,7 +2413,7 @@
         "state": "正常"
     },
     {
-        "name": "PY标准库",
+        "name": "pylib",
         "web": "https://docs.python.org/zh-cn/3/library/",
         "tags": [
             "🐱Code",
