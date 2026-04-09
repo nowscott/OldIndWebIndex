@@ -889,6 +889,15 @@
         "state": "正常"
     },
     {
+        "name": "sbti",
+        "web": "https://sbti.unun.dev/",
+        "tags": [
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "MBTI已经过时，SBTI来了。",
+        "state": "正常"
+    },
+    {
         "name": "Apple.cn",
         "web": "https://www.apple.com.cn/",
         "tags": [
