@@ -1,48 +1,108 @@
 [
     {
-        "name": "Mac清理",
-        "web": "https://www.prettyclean.cc/zh",
+        "name": "羽享平台",
+        "web": "http://yuzhuyi.ysepan.com/",
         "tags": [
-            "🍎Apple",
+            "🧠学习",
+            "📦资源",
             "🧰软件"
         ],
-        "brief": "好用的 macOS 磁盘清理工具 免费下载",
+        "brief": "各种资源的网页",
         "state": "正常"
     },
     {
-        "name": "shortcut",
-        "web": "https://sspai.com/page/playbook/zh-CN",
+        "name": "知到",
+        "web": "https://www.zhihuishu.com/",
         "tags": [
-            "🍎Apple"
+            "🧠学习"
         ],
-        "brief": "ssp的快捷指令导航站",
+        "brief": "网课平台",
         "state": "正常"
     },
     {
-        "name": "模拟扫描",
-        "web": "https://lookscanned.io/",
+        "name": "油管封面",
+        "web": "https://www.strerr.com/index.html",
         "tags": [
+            "🔧工具",
+            "🖼️图片"
+        ],
+        "brief": "提供油管封面预览和下载功能",
+        "state": "正常"
+    },
+    {
+        "name": "京东",
+        "web": "https://www.jd.com/",
+        "tags": [
+            "🛒购物"
+        ],
+        "brief": "电商购物平台",
+        "state": "正常"
+    },
+    {
+        "name": "Potplayer",
+        "web": "https://potplayer.info/",
+        "tags": [
+            "🧰软件"
+        ],
+        "brief": "贼好用的win播放器",
+        "state": "正常"
+    },
+    {
+        "name": "无尽道路",
+        "web": "https://slowroads.io/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "放松休闲、开车游戏",
+        "state": "正常"
+    },
+    {
+        "name": "擦除画面",
+        "web": "https://www.magiceraser.io/",
+        "tags": [
+            "🖼️图片",
             "🔧工具"
         ],
-        "brief": "把pdf模拟出扫描的效果",
+        "brief": "可以去背景",
         "state": "正常"
     },
     {
-        "name": "Reddit",
-        "web": "https://www.reddit.com/",
+        "name": "HomeBrew",
+        "web": "https://brew.sh/index_zh-cn",
         "tags": [
-            "👁️‍🗨️媒体"
+            "🍎Apple",
+            "🐱Code"
         ],
-        "brief": "国外小红书",
+        "brief": "macOS（或 Linux）缺失的软件包的管理器",
         "state": "正常"
     },
     {
-        "name": "今日黄金",
-        "web": "https://www.5huangjin.com/",
+        "name": "中文网字",
+        "web": "https://chinese-font.netlify.app/",
         "tags": [
-            "📈基金"
+            "📦资源",
+            "🐱Code"
         ],
-        "brief": "查看黄金价格走向",
+        "brief": "收集免费可商用的 Web 字体文件，字体分包工具",
+        "state": "正常"
+    },
+    {
+        "name": "Unsplash",
+        "web": "https://unsplash.com/",
+        "tags": [
+            "🖼️图片",
+            "📦资源"
+        ],
+        "brief": "互联网的视觉资源,由各地的创作者提供支持",
+        "state": "正常"
+    },
+    {
+        "name": "花生壳",
+        "web": "https://hsk.oray.com/",
+        "tags": [
+            "☁️云"
+        ],
+        "brief": "提供内网穿透和动态域名解析服务，支持外网访问内网服务器",
         "state": "正常"
     },
     {
@@ -65,436 +125,40 @@
         "state": "正常"
     },
     {
-        "name": "打开文件",
-        "web": "https://openfiles.online/",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "无需下载软件，在线打开图片、文本、视频、音频、压缩包，让工作更轻松",
-        "state": "正常"
-    },
-    {
-        "name": "微信网页",
-        "web": "https://filehelper.weixin.qq.com/",
-        "tags": [
-            "📁文件"
-        ],
-        "brief": "微信传文件",
-        "state": "正常"
-    },
-    {
-        "name": "闲鱼",
-        "web": "https://www.goofish.com/",
-        "tags": [
-            "🛒购物"
-        ],
-        "brief": "二手交易平台",
-        "state": "正常"
-    },
-    {
-        "name": "fydeos",
-        "web": "https://fydeos.com/",
-        "tags": [
-            "🧰软件",
-            "🏠主页"
-        ],
-        "brief": "基于chromeos的一个桌面系统",
-        "state": "正常"
-    },
-    {
-        "name": "面试鸭",
-        "web": "https://www.mianshiya.com/",
-        "tags": [
-            "🧠学习",
-            "🐱Code"
-        ],
-        "brief": "提供了很多面试题",
-        "state": "正常"
-    },
-    {
-        "name": "菜鸟教程",
-        "web": "https://www.runoob.com/",
+        "name": "牛客网",
+        "web": "https://www.nowcoder.com/",
         "tags": [
             "🐱Code",
             "🧠学习"
         ],
-        "brief": "提供了编程的基础技术教程",
+        "brief": "找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决",
         "state": "正常"
     },
     {
-        "name": "海棠诗社",
-        "web": "https://haitang.app/",
+        "name": "今日黄金",
+        "web": "https://www.5huangjin.com/",
         "tags": [
-            "🧠学习"
+            "📈基金"
         ],
-        "brief": "当科技与艺术融合，诗词创作从此变得更有趣",
+        "brief": "查看黄金价格走向",
         "state": "正常"
     },
     {
-        "name": "商量",
-        "web": "https://chat.sensetime.com/",
+        "name": "Reddit",
+        "web": "https://www.reddit.com/",
         "tags": [
-            "🤖AI"
-        ],
-        "brief": "商汤自研的超千亿参数语言大模型应用平台",
-        "state": "正常"
-    },
-    {
-        "name": "Cobalt",
-        "web": "https://cobalt.tools/",
-        "tags": [
-            "🔧工具",
-            "📺视频"
-        ],
-        "brief": "资源下载工具",
-        "state": "正常"
-    },
-    {
-        "name": "硅基流动",
-        "web": "https://siliconflow.cn/zh-cn/siliconcloud",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "提供免费的国产大模型api",
-        "state": "正常"
-    },
-    {
-        "name": "找图标",
-        "web": "https://pushkeen.ai/appstore-icons",
-        "tags": [
-            "✒️设计",
-            "🔍搜索"
-        ],
-        "brief": "快速下载appstore的图标",
-        "state": "正常"
-    },
-    {
-        "name": "快捷键库",
-        "web": "https://hotkeycheatsheet.com/zh",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "通过提供常用快捷键的快速访问来帮助用户提高生产力",
-        "state": "正常"
-    },
-    {
-        "name": "唤醒",
-        "web": "https://www.keepscreenon.com/",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "保持屏幕唤醒",
-        "state": "正常"
-    },
-    {
-        "name": "颜色代码",
-        "web": "https://encycolorpedia.cn/html",
-        "tags": [
-            "🎈色彩",
-            "🐱Code"
-        ],
-        "brief": "提供很多的颜色、不同国家、不同应用场景",
-        "state": "正常"
-    },
-    {
-        "name": "无尽道路",
-        "web": "https://slowroads.io/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "放松休闲、开车游戏",
-        "state": "正常"
-    },
-    {
-        "name": "Jumblie",
-        "web": "https://jumblie.com/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "每日挑战，找出混在一起的四个指定主题单词",
-        "state": "正常"
-    },
-    {
-        "name": " Civitai",
-        "web": "https://civitai.com/",
-        "tags": [
-            "🤖AI",
-            "🖼️图片"
-        ],
-        "brief": "Civitai是一个专注于分享和交流AI生成艺术及其相关资源的社区平台。",
-        "state": "正常"
-    },
-    {
-        "name": "DuckGo",
-        "web": "https://start.duckduckgo.com/",
-        "tags": [
-            "🔍搜索"
-        ],
-        "brief": "搜索但保护你的隐私",
-        "state": "正常"
-    },
-    {
-        "name": "骇客新闻",
-        "web": "https://news.ycombinator.com/",
-        "tags": [
-            "📱数码",
-            "🗞️新闻"
-        ],
-        "brief": "一个专注于计算机科学和创业的社交新闻网站",
-        "state": "正常"
-    },
-    {
-        "name": "9to5mac",
-        "web": "https://9to5mac.com/",
-        "tags": [
-            "🍎Apple",
-            "🗞️新闻"
-        ],
-        "brief": "苹果新闻和传言",
-        "state": "正常"
-    },
-    {
-        "name": "汤姆硬件",
-        "web": "https://www.tomshardware.com/news",
-        "tags": [
-            "📱数码",
-            "🗞️新闻"
-        ],
-        "brief": "Tom's Hardware 是您进入科技世界的专家指南",
-        "state": "正常"
-    },
-    {
-        "name": "wccftech",
-        "web": "https://wccftech.com/",
-        "tags": [
-            "📱数码",
-            "🗞️新闻"
-        ],
-        "brief": "最新的硬件、移动数码、游戏的资讯",
-        "state": "正常"
-    },
-    {
-        "name": "🍎传言",
-        "web": "https://www.macrumors.com/",
-        "tags": [
-            "🍎Apple",
-            "🗞️新闻"
-        ],
-        "brief": "关于苹果的新闻和传言",
-        "state": "正常"
-    },
-    {
-        "name": "墨滴",
-        "web": "https://mdnice.com/",
-        "tags": [
-            "📒笔记",
-            "⚙️转换"
-        ],
-        "brief": "墨滴社区是一个看颜值的文章社区，技术、数学、文学文章汇集，极具趣味性，其开发的 mdnice 编辑器是一款 Markdown 微信编辑器。",
-        "state": "正常"
-    },
-    {
-        "name": "Coze",
-        "web": "https://www.coze.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "一站式 AI Bot 开发平台（En）",
-        "state": "正常"
-    },
-    {
-        "name": "拼字幕",
-        "web": "https://www.pinzimu.com/",
-        "tags": [
-            "🖼️图片",
-            "🔧工具"
-        ],
-        "brief": "一键免费生成字幕拼图",
-        "state": "正常"
-    },
-    {
-        "name": "扣子",
-        "web": "https://www.coze.cn/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "一站式 AI Bot 开发平台（CN）",
-        "state": "正常"
-    },
-    {
-        "name": "woc",
-        "web": "https://woc.space/",
-        "tags": [
-            "📁文件",
-            "✏️协作",
-            "☁️云"
-        ],
-        "brief": "全球文件传输与协作平台",
-        "state": "正常"
-    },
-    {
-        "name": "腾讯文档",
-        "web": "https://doc.weixin.qq.com/",
-        "tags": [
-            "📒笔记",
-            "✏️协作",
-            "📁文件"
-        ],
-        "brief": "腾讯旗下的协作工具",
-        "state": "正常"
-    },
-    {
-        "name": "01万物",
-        "web": "https://lingyiwanwu.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "AI工作平台与大模型开发平台",
-        "state": "正常"
-    },
-    {
-        "name": "数学求解",
-        "web": "https://zs.symbolab.com/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "Symbolab：方程搜索和数学求解器 - 一步步求解代数,三角函数和微积分问题",
-        "state": "正常"
-    },
-    {
-        "name": "Poe",
-        "web": "https://poe.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "Poe可让您提问、获得即时回答、并与AI机器人互动对话。",
-        "state": "正常"
-    },
-    {
-        "name": "开发文档",
-        "web": "https://wangdoc.com/",
-        "tags": [
-            "🐱Code",
-            "📒笔记",
-            "🧠学习"
-        ],
-        "brief": "提供高质量的、自主版权的、可以自由使用的中文软件文档",
-        "state": "正常"
-    },
-    {
-        "name": "矩阵计算",
-        "web": "https://m.matrix.reshish.com/zh/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "最为便捷的在线矩阵计算器",
-        "state": "正常"
-    },
-    {
-        "name": "即刻",
-        "web": "https://web.okjike.com/",
-        "tags": [
-            "📱数码",
             "👁️‍🗨️媒体"
         ],
-        "brief": "与更多同好分享你的见闻与感受，每一个独到的声音，都值得被更多人倾听。",
+        "brief": "国外小红书",
         "state": "正常"
     },
     {
-        "name": "Telegraph",
-        "web": "https://telegra.ph/",
+        "name": "模拟扫描",
+        "web": "https://lookscanned.io/",
         "tags": [
-            "📒笔记"
-        ],
-        "brief": "匿名发布文章",
-        "state": "正常"
-    },
-    {
-        "name": "荔枝商店",
-        "web": "https://lizhi.shop/",
-        "tags": [
-            "📱数码",
-            "🧰软件",
-            "🛒购物"
-        ],
-        "brief": "数码荔枝 x 软件商店 -  专注于分享最新鲜优秀的正版软件",
-        "state": "正常"
-    },
-    {
-        "name": "云盘资源",
-        "web": "https://www.aliyunpanziyuan.com/",
-        "tags": [
-            "📦资源",
-            "🔍搜索"
-        ],
-        "brief": "阿里云盘资源网-网盘资源共享平台",
-        "state": "正常"
-    },
-    {
-        "name": "渐变色",
-        "web": "https://uigradients.com/",
-        "tags": [
-            "🎈色彩"
-        ],
-        "brief": "提供上百种渐变色",
-        "state": "正常"
-    },
-    {
-        "name": "日本色",
-        "web": "https://nipponcolors.com/",
-        "tags": [
-            "🎈色彩"
-        ],
-        "brief": "日本传统颜色",
-        "state": "正常"
-    },
-    {
-        "name": "中文网字",
-        "web": "https://chinese-font.netlify.app/",
-        "tags": [
-            "📦资源",
-            "🐱Code"
-        ],
-        "brief": "收集免费可商用的 Web 字体文件，字体分包工具",
-        "state": "正常"
-    },
-    {
-        "name": "IT之家",
-        "web": "https://www.ithome.com/",
-        "tags": [
-            "🗞️新闻",
-            "📱数码"
-        ],
-        "brief": "青岛软媒旗下的前沿科技门户网站",
-        "state": "正常"
-    },
-    {
-        "name": "OpenArt",
-        "web": "https://openart.ai/home",
-        "tags": [
-            "🖼️图片",
-            "🤖AI"
-        ],
-        "brief": "AI艺术生成器",
-        "state": "正常"
-    },
-    {
-        "name": "7ED",
-        "web": "https://www.7ed.net/",
-        "tags": [
-            "🕸️网络",
             "🔧工具"
         ],
-        "brief": "包含静态资源 CDN 加速服务、Git 资源加速服务、海外图片内地加速服务、Bing 每日图片 API等。",
-        "state": "正常"
-    },
-    {
-        "name": "文心一言",
-        "web": "https://yiyan.baidu.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "百度的大语言模型",
+        "brief": "把pdf模拟出扫描的效果",
         "state": "正常"
     },
     {
@@ -507,531 +171,149 @@
         "state": "正常"
     },
     {
-        "name": "Buzzing",
-        "web": "https://www.buzzing.cc/",
-        "tags": [
-            "🗞️新闻"
-        ],
-        "brief": "用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
-        "state": "正常"
-    },
-    {
-        "name": "SpeedTest",
-        "web": "https://speed.cloudflare.com/",
-        "tags": [
-            "🕸️网络",
-            "🔧工具"
-        ],
-        "brief": "Cloudflare的测速工具",
-        "state": "正常"
-    },
-    {
-        "name": "网站图标",
-        "web": "https://fontawesome.com/",
-        "tags": [
-            "♻︎图标",
-            "🐱Code"
-        ],
-        "brief": "一些图标",
-        "state": "正常"
-    },
-    {
-        "name": "在线工具",
-        "web": "https://tool.lu/",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "有很多各式各样的在线工具",
-        "state": "正常"
-    },
-    {
-        "name": "抖音",
-        "web": "https://www.douyin.com/",
-        "tags": [
-            "⛹️‍♀️娱乐",
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "抖音 - 记录美好生活",
-        "state": "正常"
-    },
-    {
-        "name": "小红书",
-        "web": "https://www.xiaohongshu.com/explore",
-        "tags": [
-            "👁️‍🗨️媒体",
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "小红书 - 你的生活指南",
-        "state": "正常"
-    },
-    {
-        "name": "Groq",
-        "web": "https://groq.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "人工智能接口系统",
-        "state": "正常"
-    },
-    {
-        "name": "🫂Chat",
-        "web": "https://huggingface.co/chat/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "让社区最好的AI聊天模型面向所有人开放。",
-        "state": "正常"
-    },
-    {
-        "name": "站长之家",
-        "web": "https://tool.chinaz.com/",
-        "tags": [
-            "🔧工具",
-            "🕸️网络"
-        ],
-        "brief": "提供各种查询工具",
-        "state": "正常"
-    },
-    {
-        "name": "豆包AI",
-        "web": "https://www.doubao.com/chat/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "抖音旗下的AI助手",
-        "state": "正常"
-    },
-    {
-        "name": "敲字背单词",
-        "web": "https://qwerty.kaiyi.cool/",
-        "tags": [
-            "🧠学习",
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件",
-        "state": "正常"
-    },
-    {
-        "name": "免费歌曲",
-        "web": "https://tool.liumingye.cn/music/#/",
-        "tags": [
-            "🎵音频"
-        ],
-        "brief": "免费下载歌曲",
-        "state": "正常"
-    },
-    {
-        "name": "牛客网",
-        "web": "https://www.nowcoder.com/",
-        "tags": [
-            "🐱Code",
-            "🧠学习"
-        ],
-        "brief": "找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决",
-        "state": "正常"
-    },
-    {
-        "name": "秒搜",
-        "web": "https://miaosou.fun/",
+        "name": "Ssgo",
+        "web": "https://ssgo.app/",
         "tags": [
             "🔍搜索",
             "📦资源"
         ],
-        "brief": "一个很好用的网盘资源搜索引擎",
+        "brief": "阿里云盘搜索引擎",
         "state": "正常"
     },
     {
-        "name": "在线测试",
-        "web": "https://www.onlinemictest.com/",
+        "name": "飞牛",
+        "web": "https://www.fnnas.com/",
         "tags": [
-            "🔧工具"
-        ],
-        "brief": "提供各种测试工具",
-        "state": "正常"
-    },
-    {
-        "name": "开源程序书",
-        "web": "https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md",
-        "tags": [
-            "🐱Code",
-            "🧠学习"
-        ],
-        "brief": "一些开源的程序书籍",
-        "state": "正常"
-    },
-    {
-        "name": "SOC-PK",
-        "web": "https://www.socpk.com/",
-        "tags": [
-            "📱数码"
-        ],
-        "brief": "极客湾做的移动芯片排行",
-        "state": "正常"
-    },
-    {
-        "name": "BibiGPT",
-        "web": "https://b.jimmylv.cn/",
-        "tags": [
-            "🤖AI",
-            "📒笔记",
-            "📺视频"
-        ],
-        "brief": "一键总结音视频",
-        "state": "正常"
-    },
-    {
-        "name": "深言达意",
-        "web": "https://shenyandayi.com/",
-        "tags": [
-            "🤖AI",
-            "🧠学习"
-        ],
-        "brief": "清华开发的根据句子找词的工具，基于AI模型",
-        "state": "正常"
-    },
-    {
-        "name": "图形计算器",
-        "web": "https://www.desmos.com/calculator?lang=zh-CN",
-        "tags": [
-            "🧠学习",
-            "🖼️图片"
-        ],
-        "brief": "绘制函数图形并进行可视化",
-        "state": "正常"
-    },
-    {
-        "name": "B站封面",
-        "web": "https://bilicover.magecorn.com/",
-        "tags": [
-            "🖼️图片",
-            "🔧工具"
-        ],
-        "brief": "提取B站视频封面",
-        "state": "正常"
-    },
-    {
-        "name": "LaTeX公式",
-        "web": " https://www.latexlive.com/",
-        "tags": [
-            "🐱Code",
-            "📒笔记"
-        ],
-        "brief": "在线编辑LaTeX公式的工具",
-        "state": "正常"
-    },
-    {
-        "name": "Notion头像",
-        "web": "https://notion-avatar.vercel.app/zh",
-        "tags": [
-            "✒️设计",
-            "🖼️图片"
-        ],
-        "brief": "制作notion风格的头像",
-        "state": "正常"
-    },
-    {
-        "name": "Gemini",
-        "web": "https://gemini.google.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "谷歌人工智能的一个大型语言模型",
-        "state": "正常"
-    },
-    {
-        "name": "Claude",
-        "web": "https://claude.ai/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "Anthropic公司开发的一个人工智能助手",
-        "state": "正常"
-    },
-    {
-        "name": "Theb.AI",
-        "web": "https://beta.theb.ai/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "一个基于API的聊天机器人 可选择多种模型",
-        "state": "正常"
-    },
-    {
-        "name": "硬件测试",
-        "web": "https://hardwaretester.com/",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "提供手柄、GPU、麦克风以及midi功能的测试",
-        "state": "正常"
-    },
-    {
-        "name": "中文手写板",
-        "web": "https://handraw.top/",
-        "tags": [
-            "🧠学习",
-            "📒笔记"
-        ],
-        "brief": "中文友好的手写白板工具",
-        "state": "正常"
-    },
-    {
-        "name": "星标历史",
-        "web": "https://star-history.com/",
-        "tags": [
-            "🐱Code",
-            "🖼️图片"
-        ],
-        "brief": "GitHub上缺失的星标历史图，star-history",
-        "state": "正常"
-    },
-    {
-        "name": "Figma",
-        "web": "https://www.figma.com/",
-        "tags": [
-            "✏️协作",
-            "✒️设计",
-            "🖼️图片"
-        ],
-        "brief": "Figma是一款协作设计工具，用于创建用户界面和原型。",
-        "state": "正常"
-    },
-    {
-        "name": "手写板",
-        "web": "https://excalidraw.com/",
-        "tags": [
-            "🧠学习",
-            "📒笔记"
-        ],
-        "brief": "手写效果白板工具",
-        "state": "正常"
-    },
-    {
-        "name": "AColor",
-        "web": "https://color.adobe.com/",
-        "tags": [
-            "🎈色彩"
-        ],
-        "brief": "Adobe的一个配色网站",
-        "state": "正常"
-    },
-    {
-        "name": "徽章制作",
-        "web": "https://shields.io/",
-        "tags": [
-            "🐱Code",
-            "♻︎图标"
-        ],
-        "brief": "提供各种服务的简洁、一致的易读徽章（badge、徽标）",
-        "state": "正常"
-    },
-    {
-        "name": "SIcon",
-        "web": "https://simpleicons.org/",
-        "tags": [
-            "🐱Code",
-            "♻︎图标"
-        ],
-        "brief": "SimpleIcons包含很多种流行品牌的免费 SVG 图标库",
-        "state": "正常"
-    },
-    {
-        "name": "Gmail",
-        "web": "https://mail.google.com/mail/",
-        "tags": [
-            "📧邮箱"
-        ],
-        "brief": "谷歌邮箱",
-        "state": "正常"
-    },
-    {
-        "name": "Outlook",
-        "web": "https://outlook.live.com/mail/",
-        "tags": [
-            "📧邮箱"
-        ],
-        "brief": "微软邮箱",
-        "state": "正常"
-    },
-    {
-        "name": "INS",
-        "web": "https://www.instagram.com/",
-        "tags": [
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "一款Meta的社交媒体平台",
-        "state": "正常"
-    },
-    {
-        "name": "PH风格",
-        "web": "https://logoly.pro/",
-        "tags": [
-            "⛹️‍♀️娱乐",
-            "♻︎图标",
-            "🖼️图片"
-        ],
-        "brief": "在线的 PornHub 风格 Logo 生成工具",
-        "state": "正常"
-    },
-    {
-        "name": "HomeBrew",
-        "web": "https://brew.sh/index_zh-cn",
-        "tags": [
-            "🍎Apple",
-            "🐱Code"
-        ],
-        "brief": "macOS（或 Linux）缺失的软件包的管理器",
-        "state": "正常"
-    },
-    {
-        "name": "MongoDB",
-        "web": "https://cloud.mongodb.com/",
-        "tags": [
-            "🐱Code",
-            "🔢数据"
-        ],
-        "brief": "一种高性能、可扩展和灵活的开源文档数据库管理系统",
-        "state": "正常"
-    },
-    {
-        "name": "开发者搜索",
-        "web": "https://kaifa.baidu.com/",
-        "tags": [
-            "🐱Code",
-            "🧠学习",
-            "🔍搜索"
-        ],
-        "brief": "一个面向开发者的知识搜索平台",
-        "state": "正常"
-    },
-    {
-        "name": "网页存档",
-        "web": "https://archive.ph/",
-        "tags": [
-            "📒笔记",
-            "🔢数据"
-        ],
-        "brief": "将网页永久保存，即使原来的消失了，仍然可以通过存档查看网页内容",
-        "state": "正常"
-    },
-    {
-        "name": "阿里云盘",
-        "web": "https://www.aliyundrive.com/",
-        "tags": [
-            "☁️云",
-            "📦资源"
-        ],
-        "brief": "一款速度快、不打扰、够安全、易于分享的网盘",
-        "state": "正常"
-    },
-    {
-        "name": "TMDB",
-        "web": "https://www.themoviedb.org/",
-        "tags": [
-            "🔢数据",
-            "📺视频"
-        ],
-        "brief": "一个电影数据库网站",
-        "state": "正常"
-    },
-    {
-        "name": "Steam",
-        "web": "https://store.steampowered.com/",
-        "tags": [
-            "🕹️游戏",
+            "📁文件",
             "🏠主页"
         ],
-        "brief": "一个游戏集合的官网",
+        "brief": "一个基于debian的nas系统",
         "state": "正常"
     },
     {
-        "name": "Discord",
-        "web": "https://discord.com/app/",
+        "name": "shortcut",
+        "web": "https://sspai.com/page/playbook/zh-CN",
         "tags": [
-            "✏️协作",
-            "👁️‍🗨️媒体"
+            "🍎Apple"
         ],
-        "brief": "在这里，您可以轻而易举地每日谈天说地，时常消遣娱乐",
+        "brief": "ssp的快捷指令导航站",
         "state": "正常"
     },
     {
-        "name": "谷歌学术",
-        "web": "https://scholar.google.com.hk/?hl=zh-CN",
-        "tags": [
-            "🧠学习",
-            "🔍搜索"
-        ],
-        "brief": "轻松地大范围搜索学术文献",
-        "state": "正常"
-    },
-    {
-        "name": "微信读书",
-        "web": "https://weread.qq.com/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "一个看书的网站",
-        "state": "正常"
-    },
-    {
-        "name": "代码高亮",
-        "web": "http://word.wd1x.com/",
-        "tags": [
-            "🐱Code",
-            "📒笔记"
-        ],
-        "brief": "在线生成可以在word/PPT中高亮的代码，支持各类主流语言在线着色",
-        "state": "正常"
-    },
-    {
-        "name": "Mac应用",
-        "web": "https://decrypt.day/",
+        "name": "Mac清理",
+        "web": "https://www.prettyclean.cc/zh",
         "tags": [
             "🍎Apple",
             "🧰软件"
         ],
-        "brief": "查找并下载最新解密的IPA应用程序",
+        "brief": "好用的 macOS 磁盘清理工具 免费下载",
         "state": "正常"
     },
     {
-        "name": "Netlify",
-        "web": "https://app.netlify.com/",
+        "name": "x2webp",
+        "web": "https://xtoimage.com/",
         "tags": [
-            "🐱Code",
+            "🔧工具"
+        ],
+        "brief": "立即将 X 帖子转换为高质量的可共享图像",
+        "state": "正常"
+    },
+    {
+        "name": "spaceship",
+        "web": "https://www.spaceship.com/zh/",
+        "tags": [
             "☁️云"
         ],
-        "brief": "一个免服务器构建网页的网站",
+        "brief": "购买域名的网站",
         "state": "正常"
     },
     {
-        "name": "Notion",
-        "web": "https://www.notion.so/",
+        "name": "Switch520",
+        "web": "https://www.gamer520.com/",
         "tags": [
-            "✏️协作",
-            "📒笔记",
-            "✅效率"
+            "📦资源",
+            "🕹️游戏"
         ],
-        "brief": "一款功能强大的协作工具和笔记应用",
+        "brief": "switch游戏下载,PC游戏下载,switch破解游戏下载,PC破解游戏下载,Switch520,xxxxx520",
         "state": "正常"
     },
     {
-        "name": "Slack",
-        "web": "https://slack.com/",
+        "name": "RoutineHub",
+        "web": "https://routinehub.co/",
         "tags": [
-            "✏️协作",
-            "✅效率"
+            "🍎Apple"
         ],
-        "brief": "一个团队协作的网站",
+        "brief": "发现、共享和版本控制 Apple 快捷指令",
         "state": "正常"
     },
     {
-        "name": "飞布API",
-        "web": "https://www.fireboom.io/",
+        "name": "Switch618",
+        "web": "https://www.switch618.com/",
         "tags": [
-            "🐱Code",
-            "☁️云"
+            "🕹️游戏",
+            "📦资源"
         ],
-        "brief": "可视化API开发平台",
+        "brief": "Switch618|免费Switch游戏PC游戏下载 - SWITCH618游戏公益分享",
+        "state": "正常"
+    },
+    {
+        "name": "小报童",
+        "web": "https://xiaobot.net/home.html",
+        "tags": [
+            "🏠主页",
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "付费专栏，体面而用心地创作",
+        "state": "正常"
+    },
+    {
+        "name": "Devv ai",
+        "web": "https://devv.ai/zh",
+        "tags": [
+            "🤖AI",
+            "🔍搜索",
+            "🐱Code"
+        ],
+        "brief": "一款专为程序员朋友设计的人工智能搜索引擎",
+        "state": "正常"
+    },
+    {
+        "name": "Text2Card",
+        "web": "https://card.pomodiary.com/",
+        "tags": [
+            "🔧工具",
+            "🖼️图片"
+        ],
+        "brief": "最简单的卡片制作工具，可记录您的想法和引言”",
+        "state": "正常"
+    },
+    {
+        "name": "RetroCard",
+        "web": "https://retro.iwhy.dev/",
+        "tags": [
+            "🖼️图片",
+            "🔧工具"
+        ],
+        "brief": "文字卡片制作工具",
+        "state": "正常"
+    },
+    {
+        "name": "识典古籍",
+        "web": "https://www.shidianguji.com/",
+        "tags": [
+            "🧠学习",
+            "📦资源"
+        ],
+        "brief": "北大和字节开发一个古籍在线阅读平台",
+        "state": "正常"
+    },
+    {
+        "name": "Canva",
+        "web": "https://www.canva.cn",
+        "tags": [
+            "✒️设计"
+        ],
+        "brief": "轻松创建并分享专业设计。",
         "state": "正常"
     },
     {
@@ -1042,1458 +324,6 @@
             "🧠学习"
         ],
         "brief": "学术必备！！！",
-        "state": "正常"
-    },
-    {
-        "name": "DS可视化",
-        "web": "https://visualgo.net/",
-        "tags": [
-            "🐱Code",
-            "🧠学习"
-        ],
-        "brief": "数据结构和算法动态可视化",
-        "state": "正常"
-    },
-    {
-        "name": "CodeForces",
-        "web": "https://codeforces.com/",
-        "tags": [
-            "🐱Code"
-        ],
-        "brief": "一个俄罗斯的刷题网站，有模拟竞赛",
-        "state": "正常"
-    },
-    {
-        "name": "字幕库",
-        "web": "https://zmk.pw/",
-        "tags": [
-            "📦资源"
-        ],
-        "brief": "字幕下载网站",
-        "state": "正常"
-    },
-    {
-        "name": "🍎Store",
-        "web": "https://www.apple.com.cn/retail/storelist/",
-        "tags": [
-            "🍎Apple",
-            "🛒购物"
-        ],
-        "brief": "中国苹果直营店位置",
-        "state": "正常"
-    },
-    {
-        "name": "影视飓风",
-        "web": "https://www.ysjf.com/index",
-        "tags": [
-            "🕊️up主",
-            "🏠主页"
-        ],
-        "brief": "影视飓风官网",
-        "state": "正常"
-    },
-    {
-        "name": "测速网",
-        "web": "https://www.speedtest.cn/",
-        "tags": [
-            "🕸️网络",
-            "🔧工具"
-        ],
-        "brief": "你的网速怎么样？",
-        "state": "正常"
-    },
-    {
-        "name": "格式转换",
-        "web": "https://www.aconvert.com/cn/",
-        "tags": [
-            "⚙️转换"
-        ],
-        "brief": "内含多种格式转换",
-        "state": "正常"
-    },
-    {
-        "name": "Git文档",
-        "web": "https://gitee.com/progit/index.html",
-        "tags": [
-            "🐱Code",
-            "🧠学习",
-            "📒笔记"
-        ],
-        "brief": "快来学习Git！",
-        "state": "正常"
-    },
-    {
-        "name": "全渠道搜索",
-        "web": "http://dir.scmor.com/",
-        "tags": [
-            "🔍搜索",
-            "🔧工具"
-        ],
-        "brief": "各种搜索渠道",
-        "state": "正常"
-    },
-    {
-        "name": "Topbook",
-        "web": "https://topbook.cc/overview",
-        "tags": [
-            "🕊️up主",
-            "🏠主页",
-            "✅效率"
-        ],
-        "brief": "一个百科全书",
-        "state": "正常"
-    },
-    {
-        "name": "UU工具",
-        "web": "https://uutool.cn/",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "很多的工具",
-        "state": "正常"
-    },
-    {
-        "name": "隔离食用",
-        "web": "https://cook.yunyoujun.cn/",
-        "tags": [
-            "🔹其他"
-        ],
-        "brief": "多种多样的菜谱任你选择",
-        "state": "正常"
-    },
-    {
-        "name": "itellyou",
-        "web": "https://next.itellyou.cn/",
-        "tags": [
-            "🧰软件"
-        ],
-        "brief": "操作系统镜像|windows|linux",
-        "state": "正常"
-    },
-    {
-        "name": "processon",
-        "web": "https://www.processon.com/",
-        "tags": [
-            "🖼️图片",
-            "🧠学习"
-        ],
-        "brief": "流程清晰可见",
-        "state": "正常"
-    },
-    {
-        "name": "比特虫.ico",
-        "web": "https://www.bitbug.net/",
-        "tags": [
-            "♻︎图标",
-            "✒️设计",
-            "⚙️转换"
-        ],
-        "brief": "制作网站图标的网站",
-        "state": "正常"
-    },
-    {
-        "name": "图司机",
-        "web": "https://www.tusij.com/",
-        "tags": [
-            "🖼️图片",
-            "✒️设计"
-        ],
-        "brief": "简单修图网页",
-        "state": "正常"
-    },
-    {
-        "name": "Jobs纪念馆",
-        "web": "https://stevejobsarchive.com/",
-        "tags": [
-            "🍎Apple",
-            "🔹其他"
-        ],
-        "brief": "乔布斯纪念网站",
-        "state": "正常"
-    },
-    {
-        "name": "FirstWeb",
-        "web": "http://info.cern.ch/",
-        "tags": [
-            "🔹其他"
-        ],
-        "brief": "万维网第一个网页",
-        "state": "正常"
-    },
-    {
-        "name": "Github",
-        "web": "https://github.com/",
-        "tags": [
-            "🐱Code",
-            "✏️协作",
-            "☁️云"
-        ],
-        "brief": "存代码的地方",
-        "state": "正常"
-    },
-    {
-        "name": "哔哩哔哩",
-        "web": "https://www.bilibili.com/",
-        "tags": [
-            "📺视频",
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "一个看视频的网站",
-        "state": "正常"
-    },
-    {
-        "name": "QQ邮箱",
-        "web": "https://mail.qq.com",
-        "tags": [
-            "📧邮箱"
-        ],
-        "brief": "腾讯邮箱",
-        "state": "正常"
-    },
-    {
-        "name": "OTP",
-        "web": "https://otp.landian.vip/zh-cn/",
-        "tags": [
-            "🧰软件",
-            "🔧工具"
-        ],
-        "brief": "OfficeToolPlus软件的工具网页",
-        "state": "正常"
-    },
-    {
-        "name": "软件目录",
-        "web": "https://www.yuque.com/books/share/ec226b31-5272-4792-811b-c22334cf0a9a?#%20%E3%80%8A%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95%E3%80%8B",
-        "tags": [
-            "🧰软件"
-        ],
-        "brief": "一些付费软件的免费安装包",
-        "state": "正常"
-    },
-    {
-        "name": "连通性检验",
-        "web": "https://ip.skk.moe/",
-        "tags": [
-            "🕸️网络",
-            "🔧工具"
-        ],
-        "brief": "检测你的电脑是否能连接一些节点",
-        "state": "正常"
-    },
-    {
-        "name": "找鼠标",
-        "web": "https://pointerpointer.com/",
-        "tags": [
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "你的鼠标在哪都能被找到",
-        "state": "正常"
-    },
-    {
-        "name": "播客搜索",
-        "web": "https://pod.link/",
-        "tags": [
-            "🔧工具",
-            "🎵音频"
-        ],
-        "brief": "搜索播客的网站",
-        "state": "正常"
-    },
-    {
-        "name": "擦除画面",
-        "web": "https://www.magiceraser.io/",
-        "tags": [
-            "🖼️图片",
-            "🔧工具"
-        ],
-        "brief": "可以去背景",
-        "state": "正常"
-    },
-    {
-        "name": "重开模拟器",
-        "web": "https://liferestart.syaro.io/public/index.html",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "如果能重来~",
-        "state": "正常"
-    },
-    {
-        "name": "即时工具",
-        "web": "https://www.67tool.com/",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "一些工具",
-        "state": "正常"
-    },
-    {
-        "name": "离谱相关性",
-        "web": "http://tylervigen.com/spurious-correlations",
-        "tags": [
-            "⛹️‍♀️娱乐",
-            "🔹其他"
-        ],
-        "brief": "什么是离谱的呢？",
-        "state": "正常"
-    },
-    {
-        "name": "耳机评测站",
-        "web": "https://www.woodenears.com/",
-        "tags": [
-            "📱数码"
-        ],
-        "brief": "耳机测评网站",
-        "state": "正常"
-    },
-    {
-        "name": "据义查句",
-        "web": "https://wantquotes.net/",
-        "tags": [
-            "🧠学习",
-            "🔧工具"
-        ],
-        "brief": "根据意思来查找名人名言",
-        "state": "正常"
-    },
-    {
-        "name": "空投",
-        "web": "https://airportal.cn/",
-        "tags": [
-            "📁文件"
-        ],
-        "brief": "快速传文件",
-        "state": "正常"
-    },
-    {
-        "name": "DeepL",
-        "web": "https://www.deepl.com/translator",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "一个很好用的翻译网站",
-        "state": "正常"
-    },
-    {
-        "name": "Potplayer",
-        "web": "https://potplayer.info/",
-        "tags": [
-            "🧰软件"
-        ],
-        "brief": "贼好用的win播放器",
-        "state": "正常"
-    },
-    {
-        "name": "Apple.cn",
-        "web": "https://www.apple.com.cn/",
-        "tags": [
-            "🍎Apple"
-        ],
-        "brief": "一个伟大公司的官网",
-        "state": "正常"
-    },
-    {
-        "name": "密码测试",
-        "web": "https://www.passwordmonster.com/",
-        "tags": [
-            "🔧工具",
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "测试密码安全程度",
-        "state": "正常"
-    },
-    {
-        "name": "谷歌",
-        "web": "https://www.google.com/",
-        "tags": [
-            "🔍搜索"
-        ],
-        "brief": "需要魔法才能用的检索工具",
-        "state": "正常"
-    },
-    {
-        "name": "淘宝",
-        "web": "https://www.taobao.com/",
-        "tags": [
-            "🛒购物"
-        ],
-        "brief": "买！买！买！",
-        "state": "正常"
-    },
-    {
-        "name": "京东",
-        "web": "https://www.jd.com/",
-        "tags": [
-            "🛒购物"
-        ],
-        "brief": "电商购物平台",
-        "state": "正常"
-    },
-    {
-        "name": "Youtube",
-        "web": "https://www.youtube.com/",
-        "tags": [
-            "📺视频"
-        ],
-        "brief": "需要魔法才能访问的视频平台",
-        "state": "正常"
-    },
-    {
-        "name": "微博",
-        "web": "https://weibo.com/",
-        "tags": [
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "国内最大的媒体",
-        "state": "正常"
-    },
-    {
-        "name": "知乎",
-        "web": "https://www.zhihu.com/",
-        "tags": [
-            "🧠学习",
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "看看别人怎么说？",
-        "state": "正常"
-    },
-    {
-        "name": "微信公众",
-        "web": "https://mp.weixin.qq.com/",
-        "tags": [
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "公众号和小程序的后台",
-        "state": "正常"
-    },
-    {
-        "name": "学习通",
-        "web": "https://i.chaoxing.com/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "网课学习",
-        "state": "正常"
-    },
-    {
-        "name": "Vercel",
-        "web": "https://vercel.com/",
-        "tags": [
-            "🐱Code",
-            "☁️云"
-        ],
-        "brief": "搭建网站",
-        "state": "正常"
-    },
-    {
-        "name": "小红书创作",
-        "web": "https://creator.xiaohongshu.com",
-        "tags": [
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "小红书后台",
-        "state": "正常"
-    },
-    {
-        "name": "腾讯云",
-        "web": "https://cloud.tencent.com/",
-        "tags": [
-            "☁️云"
-        ],
-        "brief": "腾讯云平台，云主机",
-        "state": "正常"
-    },
-    {
-        "name": "阿里云",
-        "web": "https://cn.aliyun.com/",
-        "tags": [
-            "☁️云"
-        ],
-        "brief": "阿里云平台，图床服务",
-        "state": "正常"
-    },
-    {
-        "name": "CSDN",
-        "web": "https://www.csdn.net/",
-        "tags": [
-            "🐱Code",
-            "🔍搜索"
-        ],
-        "brief": "代码有关的问题来问我",
-        "state": "正常"
-    },
-    {
-        "name": "Gitee",
-        "web": "https://gitee.com/",
-        "tags": [
-            "🐱Code",
-            "☁️云",
-            "✏️协作"
-        ],
-        "brief": "存代码用的，国内访问很快",
-        "state": "正常"
-    },
-    {
-        "name": "X",
-        "web": "https://x.com",
-        "tags": [
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "推特，已被马斯克收购",
-        "state": "正常"
-    },
-    {
-        "name": "MD排版",
-        "web": "https://md.guozh.net/",
-        "tags": [
-            "⚙️转换",
-            "📒笔记"
-        ],
-        "brief": "让markdown可以很好的发在公众号上",
-        "state": "正常"
-    },
-    {
-        "name": "视频号",
-        "web": "https://channels.weixin.qq.com/",
-        "tags": [
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "微信视频号",
-        "state": "正常"
-    },
-    {
-        "name": "知到",
-        "web": "https://www.zhihuishu.com/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "网课平台",
-        "state": "正常"
-    },
-    {
-        "name": "亚马逊",
-        "web": "https://www.amazon.cn/",
-        "tags": [
-            "🛒购物"
-        ],
-        "brief": "全球购物平台",
-        "state": "正常"
-    },
-    {
-        "name": "谷歌翻译",
-        "web": "https://translate.google.com/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "（也许）需要魔法才能用的翻译工具",
-        "state": "正常"
-    },
-    {
-        "name": "少数派",
-        "web": "https://sspai.com/",
-        "tags": [
-            "📱数码",
-            "👁️‍🗨️媒体",
-            "🗞️新闻"
-        ],
-        "brief": "写文字的平台，数码科技相关",
-        "state": "正常"
-    },
-    {
-        "name": "🐒type",
-        "web": "https://monkeytype.com/",
-        "tags": [
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "练习打字的网站",
-        "state": "正常"
-    },
-    {
-        "name": "打字网站",
-        "web": "https://dazidazi.com/",
-        "tags": [
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "一个up主做的打字网站",
-        "state": "正常"
-    },
-    {
-        "name": "汉兜",
-        "web": "https://handle.antfu.me/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "汉字猜字游戏",
-        "state": "正常"
-    },
-    {
-        "name": "小米有品",
-        "web": "https://www.xiaomiyoupin.com/",
-        "tags": [
-            "🛒购物"
-        ],
-        "brief": "小米有品，购物平台",
-        "state": "正常"
-    },
-    {
-        "name": "网易邮箱",
-        "web": "https://mail.163.com/",
-        "tags": [
-            "📧邮箱"
-        ],
-        "brief": "网易邮箱163、126",
-        "state": "正常"
-    },
-    {
-        "name": "慕课",
-        "web": "https://www.icourse163.org/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "网课，内含很多精品公开课",
-        "state": "正常"
-    },
-    {
-        "name": "-LKs-",
-        "web": "http://lkssite.vip/",
-        "tags": [
-            "🕊️up主"
-        ],
-        "brief": "一个墨镜区up做的网址大全",
-        "state": "正常"
-    },
-    {
-        "name": "任务清单",
-        "web": "https://habitica.com/",
-        "tags": [
-            "✅效率"
-        ],
-        "brief": "用闯关的方式完成任务",
-        "state": "正常"
-    },
-    {
-        "name": "青柠起始页",
-        "web": "https://limestart.cn/",
-        "tags": [
-            "🏠主页"
-        ],
-        "brief": "一个up主做的起始页，很精美",
-        "state": "正常"
-    },
-    {
-        "name": "轻松传",
-        "web": "https://easychuan.cn/",
-        "tags": [
-            "📁文件"
-        ],
-        "brief": "轻松传文件到各种地方",
-        "state": "正常"
-    },
-    {
-        "name": "Kaggle",
-        "web": "https://www.kaggle.com/",
-        "tags": [
-            "🔢数据",
-            "🧠学习"
-        ],
-        "brief": "找一些成品的数据文件以及其他开发者对数据的处理",
-        "state": "正常"
-    },
-    {
-        "name": "sojson",
-        "web": "https://www.sojson.com/",
-        "tags": [
-            "⚙️转换"
-        ],
-        "brief": "json转换为其他的格式",
-        "state": "正常"
-    },
-    {
-        "name": "今日头条",
-        "web": "https://www.toutiao.com/",
-        "tags": [
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "字节跳动旗下文字和视频网站",
-        "state": "正常"
-    },
-    {
-        "name": "wallhaven",
-        "web": "https://wallhaven.cc/",
-        "tags": [
-            "🖼️图片",
-            "📦资源"
-        ],
-        "brief": "好看高清壁纸",
-        "state": "正常"
-    },
-    {
-        "name": "世界名画",
-        "web": "https://www.nbfox.com/",
-        "tags": [
-            "🖼️图片",
-            "📦资源"
-        ],
-        "brief": "高清著名画作",
-        "state": "正常"
-    },
-    {
-        "name": "全球logo",
-        "web": "https://www.logonews.cn/",
-        "tags": [
-            "🖼️图片",
-            "📦资源"
-        ],
-        "brief": "logo情报网站",
-        "state": "正常"
-    },
-    {
-        "name": "一网一匠",
-        "web": "https://ywyj.cn/",
-        "tags": [
-            "🔧工具",
-            "🕊️up主"
-        ],
-        "brief": "一个up主叫一网一匠做的主页",
-        "state": "正常"
-    },
-    {
-        "name": "图标库",
-        "web": "https://www.iconfont.cn/",
-        "tags": [
-            "♻︎图标",
-            "✒️设计"
-        ],
-        "brief": "可以找到很多官方图标",
-        "state": "正常"
-    },
-    {
-        "name": "ChatGPT",
-        "web": "https://chatgpt.com",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "OpenAi做的智能助手",
-        "state": "正常"
-    },
-    {
-        "name": "Lightly",
-        "web": "https://lightly.teamcode.com/",
-        "tags": [
-            "🐱Code",
-            "☁️云"
-        ],
-        "brief": "在线编译工具，免费用户500Mb内存",
-        "state": "正常"
-    },
-    {
-        "name": "Pexels",
-        "web": "https://www.pexels.com/zh-cn/",
-        "tags": [
-            "🖼️图片",
-            "📦资源"
-        ],
-        "brief": "摄影作者在这里免费分享最精彩的素材图片和视频",
-        "state": "正常"
-    },
-    {
-        "name": "食物图片",
-        "web": "https://www.foodiesfeed.com/",
-        "tags": [
-            "🖼️图片",
-            "📦资源"
-        ],
-        "brief": "搜索超过1802张免费美食照片",
-        "state": "正常"
-    },
-    {
-        "name": "Pixabay",
-        "web": "https://pixabay.com/",
-        "tags": [
-            "🖼️图片",
-            "📦资源"
-        ],
-        "brief": "令人惊叹的免费图片和免版税库存",
-        "state": "正常"
-    },
-    {
-        "name": "Unsplash",
-        "web": "https://unsplash.com/",
-        "tags": [
-            "🖼️图片",
-            "📦资源"
-        ],
-        "brief": "互联网的视觉资源,由各地的创作者提供支持",
-        "state": "正常"
-    },
-    {
-        "name": "爱给网",
-        "web": "https://www.aigei.com/",
-        "tags": [
-            "🎵音频",
-            "📦资源",
-            "📺视频"
-        ],
-        "brief": "中国最大的数字娱乐免费素材下载网站",
-        "state": "正常"
-    },
-    {
-        "name": "耳聆网",
-        "web": "https://www.ear0.com/",
-        "tags": [
-            "🎵音频",
-            "📦资源"
-        ],
-        "brief": "提供全面的声音资源和版权保护机制，满足各方面音频素材需求",
-        "state": "正常"
-    },
-    {
-        "name": "钢笔工具",
-        "web": "https://bezier.method.ac/",
-        "tags": [
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "一个帮助你熟练掌握钢笔工具的网站",
-        "state": "正常"
-    },
-    {
-        "name": "Phind",
-        "web": "https://phind.com/",
-        "tags": [
-            "🔍搜索",
-            "🐱Code"
-        ],
-        "brief": "面向程序员的搜索引擎",
-        "state": "正常"
-    },
-    {
-        "name": "油猴脚本",
-        "web": "https://greasyfork.org/zh-CN",
-        "tags": [
-            "🔧工具",
-            "🧰软件"
-        ],
-        "brief": "这里是一个提供用户脚本的网站",
-        "state": "正常"
-    },
-    {
-        "name": "Jetbrains",
-        "web": "https://www.jetbrains.com/zh-cn/",
-        "tags": [
-            "🐱Code",
-            "🧰软件",
-            "🏠主页"
-        ],
-        "brief": "为专业人士和团队制作开发者工具",
-        "state": "正常"
-    },
-    {
-        "name": "在线LaTeX",
-        "web": "https://cn.overleaf.com/",
-        "tags": [
-            "🐱Code",
-            "📒笔记"
-        ],
-        "brief": "在线 LaTeX 编辑器，无需安装，实时共享，版本控制，数百免费模板",
-        "state": "正常"
-    },
-    {
-        "name": "花生壳",
-        "web": "https://hsk.oray.com/",
-        "tags": [
-            "☁️云"
-        ],
-        "brief": "提供内网穿透和动态域名解析服务，支持外网访问内网服务器",
-        "state": "正常"
-    },
-    {
-        "name": "pylib",
-        "web": "https://docs.python.org/zh-cn/3/library/",
-        "tags": [
-            "🐱Code",
-            "🧠学习"
-        ],
-        "brief": "语言参考手册描述了Python的语法和语义，库参考则介绍了Python标准库",
-        "state": "正常"
-    },
-    {
-        "name": "知网",
-        "web": "https://www.cnki.net/",
-        "tags": [
-            "🧠学习",
-            "📦资源"
-        ],
-        "brief": "面向读者提供各类学术资源统一检索、统一导航、在线阅读和下载服务",
-        "state": "正常"
-    },
-    {
-        "name": "拼接音视频",
-        "web": "https://maple3142.github.io/mergemp4/",
-        "tags": [
-            "🔧工具",
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "将音频和视频拼到一起（不负责对齐）",
-        "state": "正常"
-    },
-    {
-        "name": "爱奇艺体育",
-        "web": "https://ssports.iqiyi.com/",
-        "tags": [
-            "📺视频"
-        ],
-        "brief": "中国知名的体育赛事平台",
-        "state": "正常"
-    },
-    {
-        "name": "在线剪视频",
-        "web": "https://online-video-cutter.com/cn/",
-        "tags": [
-            "🔧工具",
-            "📺视频"
-        ],
-        "brief": "从任何在线视频中剪切片段",
-        "state": "正常"
-    },
-    {
-        "name": "80S",
-        "web": "https://www.80sgod.com/",
-        "tags": [
-            "📺视频"
-        ],
-        "brief": "提供最新高清MP4电影,电视剧,动漫下载.采用迅雷磁力链方式下载",
-        "state": "正常"
-    },
-    {
-        "name": "新榜",
-        "web": "https://newrank.cn/",
-        "tags": [
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "更多更好的KOL自媒体，品效合一的传播销售方案，尽在新榜",
-        "state": "正常"
-    },
-    {
-        "name": "羽享平台",
-        "web": "http://yuzhuyi.ysepan.com/",
-        "tags": [
-            "🧠学习",
-            "📦资源",
-            "🧰软件"
-        ],
-        "brief": "各种资源的网页",
-        "state": "正常"
-    },
-    {
-        "name": "W3school",
-        "web": "https://www.w3school.com.cn/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "全球最大的中文 Web 技术教程",
-        "state": "正常"
-    },
-    {
-        "name": "XFastest",
-        "web": "https://news.xfastest.com/",
-        "tags": [
-            "🗞️新闻"
-        ],
-        "brief": "香港科技新闻网站",
-        "state": "正常"
-    },
-    {
-        "name": "Logo制作",
-        "web": "https://www.designevo.com/cn",
-        "tags": [
-            "🔧工具",
-            "♻︎图标"
-        ],
-        "brief": "一款专业制作Logo的免费软件",
-        "state": "正常"
-    },
-    {
-        "name": "猫啃网",
-        "web": "https://www.maoken.com/",
-        "tags": [
-            "📦资源"
-        ],
-        "brief": "最新最全的可免费商用中文字体下载网站",
-        "state": "正常"
-    },
-    {
-        "name": "W32DI",
-        "web": "https://win32diskimager.org/",
-        "tags": [
-            "🧰软件"
-        ],
-        "brief": "Win32DiskImager一个将原始磁盘映像写入可移动设备的程序",
-        "state": "正常"
-    },
-    {
-        "name": "中国色",
-        "web": "http://zhongguose.com/",
-        "tags": [
-            "🎈色彩"
-        ],
-        "brief": "提供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示",
-        "state": "正常"
-    },
-    {
-        "name": "Typora",
-        "web": "https://www.typoraio.cn/",
-        "tags": [
-            "📒笔记"
-        ],
-        "brief": "一款 Markdown 编辑器和阅读器",
-        "state": "正常"
-    },
-    {
-        "name": "飞桨",
-        "web": "https://aistudio.baidu.com/aistudio/index",
-        "tags": [
-            "🐱Code",
-            "☁️云"
-        ],
-        "brief": "一个强大且易用的开源深度学习平台",
-        "state": "正常"
-    },
-    {
-        "name": "cal计算器",
-        "web": "https://www.calculator.net/calorie-calculator.html",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "估算每天需要摄入的卡路里数量，以维持、减重或增重",
-        "state": "正常"
-    },
-    {
-        "name": "进化",
-        "web": "https://evolve.g8hh.com/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "从原生质开始，逐步解锁高级生命形式，开启属于自己的文明",
-        "state": "正常"
-    },
-    {
-        "name": "Horizons",
-        "web": "https://yx.g8hh.com/heart-of-galaxy-horizons/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "一款图文并茂的网页游戏",
-        "state": "正常"
-    },
-    {
-        "name": "网易新闻",
-        "web": "https://news.163.com/",
-        "tags": [
-            "🗞️新闻"
-        ],
-        "brief": "包含各种新闻的门户网站",
-        "state": "正常"
-    },
-    {
-        "name": "国家统计局",
-        "web": "http://www.stats.gov.cn/",
-        "tags": [
-            "🔢数据"
-        ],
-        "brief": "中国统计信息网",
-        "state": "正常"
-    },
-    {
-        "name": "油管解析",
-        "web": "https://fotoun.com/?p=161",
-        "tags": [
-            "🔧工具",
-            "📺视频"
-        ],
-        "brief": "YouTube视频在线解析网站",
-        "state": "正常"
-    },
-    {
-        "name": "ChatExcel",
-        "web": "https://chatexcel.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "仅通过聊天来操控您的Excel表格",
-        "state": "正常"
-    },
-    {
-        "name": "ChatPDF",
-        "web": "https://www.chatpdf.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "ChatPDF是一种快速简便的方法，可以与任何PDF文件进行对话",
-        "state": "正常"
-    },
-    {
-        "name": "赛博佛祖",
-        "web": "https://fozu.ink/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "一个配备有ChatGPT的佛陪伴在您的身边",
-        "state": "正常"
-    },
-    {
-        "name": "ChatMind",
-        "web": "https://www.chatmind.tech/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "AI生成思维导图的效率工具, 为用户提供智能化思维导图方案",
-        "state": "正常"
-    },
-    {
-        "name": "油管封面",
-        "web": "https://www.strerr.com/index.html",
-        "tags": [
-            "🔧工具",
-            "🖼️图片"
-        ],
-        "brief": "提供油管封面预览和下载功能",
-        "state": "正常"
-    },
-    {
-        "name": "图寻",
-        "web": "https://tuxun.fun/",
-        "tags": [
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "探索真实世界，收集线索，找出自己的位置",
-        "state": "正常"
-    },
-    {
-        "name": "芒果商城",
-        "web": "https://www.mgidshop.com/",
-        "tags": [
-            "🍎Apple",
-            "🛒购物"
-        ],
-        "brief": "购买日区美区小火箭、美区苹果ID",
-        "state": "正常"
-    },
-    {
-        "name": "sbti",
-        "web": "https://sbti.unun.dev/",
-        "tags": [
-            "⛹️‍♀️娱乐"
-        ],
-        "brief": "MBTI已经过时，SBTI来了。",
-        "state": "正常"
-    },
-    {
-        "name": "HeroSMS",
-        "web": "https://hero-sms.com/cn",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "在线接收短信 & API 访问",
-        "state": "正常"
-    },
-    {
-        "name": "fixmac",
-        "web": "https://fix.qiaomu.ai/",
-        "tags": [
-            "🍎Apple"
-        ],
-        "brief": "提示「已损坏」或「无法验证开发者」？把应用拖进来，帮你生成修复命令",
-        "state": "正常"
-    },
-    {
-        "name": "slidev",
-        "web": "https://cn.sli.dev/",
-        "tags": [
-            "🔧工具",
-            "🐱Code"
-        ],
-        "brief": "为开发者打造的演示文稿工具",
-        "state": "正常"
-    },
-    {
-        "name": "yorg",
-        "web": "https://yorg.io/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "这是一款结合了供应链管理和僵尸塔防的游戏。白天你需要铺设矿机、规划最优的资源运输网络，非常考验资源调度能力；到了晚上，则要利用收集到的资源建造防御阵地，抵御尸潮。",
-        "state": "正常"
-    },
-    {
-        "name": "扫雷",
-        "web": "https://minesweeper.online/cn/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "这不是普通的扫雷。这是目前全网最专业的扫雷平台，包含了任务系统、装备掉落、全球排行榜和极高难度的超大地图。",
-        "state": "正常"
-    },
-    {
-        "name": "宇宙回形针",
-        "web": "https://www.decisionproblem.com/paperclips/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "你将扮演一个目标是“制造回形针”的 AI。游戏从点击制造单个回形针开始，随着算力和资源的积累，你会解锁自动交易、量子计算，最终走向探索宇宙和星际征服。",
-        "state": "正常"
-    },
-    {
-        "name": "小黑屋",
-        "web": "https://adarkroom.doublespeakgames.com/index.html?ignorebrowser=true&lang=zh_cn",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "极简的文字生存冒险游戏。开局屏幕上只有一个“生火”的按钮，随着剧情推进，你需要管理资源、分配工人，并带着有限的物资外出探索包含肉鸽元素的庞大地图。",
-        "state": "正常"
-    },
-    {
-        "name": "猫咪村庄",
-        "web": "https://kittensgame.com/web/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "一款极其硬核的纯文字资源管理游戏。你需要管理一个猫咪村庄，从砍树、采石开始，逐步发展出庞大的科技树、神学、甚至是太空工程。",
-        "state": "正常"
-    },
-    {
-        "name": "Gridland",
-        "web": "https://gridland.doublespeakgames.com/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "表面上看起来是个简单的三消游戏，实际上有着非常硬核的昼夜交替生存机制。",
-        "state": "正常"
-    },
-    {
-        "name": "ITQuiz",
-        "web": "https://x.0211120.xyz/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "信息技术练习平台",
-        "state": "正常"
-    },
-    {
-        "name": "Shapez",
-        "web": "https://shapez.io/",
-        "tags": [
-            "🕹️游戏"
-        ],
-        "brief": "一款极简风格的工厂建造游戏。",
-        "state": "正常"
-    },
-    {
-        "name": "构石",
-        "web": "https://shitjournal.org/",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "真理会过时，构石永恒。",
-        "state": "正常"
-    },
-    {
-        "name": "AURA壁纸",
-        "web": "https://gallery.wallaura.cn",
-        "tags": [
-            "🖼️图片"
-        ],
-        "brief": "一个纯粹、简单、优雅的高清壁纸网站。",
-        "state": "正常"
-    },
-    {
-        "name": "纸由我",
-        "web": "https://paperme.toolooz.com/",
-        "tags": [
-            "🔧工具",
-            "🧠学习",
-            "📦资源"
-        ],
-        "brief": "自定义打印纸生成器",
-        "state": "正常"
-    },
-    {
-        "name": "拼图",
-        "web": "https://fulicat.com/lab/pintu/",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "最简单的图片拼接网站",
-        "state": "正常"
-    },
-    {
-        "name": "Apple参数",
-        "web": "https://hubweb.cn/",
-        "tags": [
-            "🍎Apple"
-        ],
-        "brief": "Apple 苹果产品参数中心",
-        "state": "正常"
-    },
-    {
-        "name": "泡椒音乐",
-        "web": "https://pjmp3.com/",
-        "tags": [
-            "🎵音频"
-        ],
-        "brief": "免注册即可搜索、试听与下载。",
-        "state": "正常"
-    },
-    {
-        "name": "表情百科",
-        "web": "https://emojipedia.org/zh",
-        "tags": [
-            "📦资源"
-        ],
-        "brief": "emoji 百科",
-        "state": "正常"
-    },
-    {
-        "name": "复制符",
-        "web": "https://fzf.0211120.xyz/",
-        "tags": [
-            "🔧工具"
-        ],
-        "brief": "快速查找特殊符号，一键复制",
-        "state": "正常"
-    },
-    {
-        "name": "Emojiall",
-        "web": "https://www.emojiall.com/zh-hans",
-        "tags": [
-            "📦资源",
-            "🔧工具"
-        ],
-        "brief": "emoji大全",
-        "state": "正常"
-    },
-    {
-        "name": "台风网",
-        "web": "https://typhoon.slt.zj.gov.cn/#/",
-        "tags": [
-            "🔢数据",
-            "🔧工具"
-        ],
-        "brief": "查看台风路径",
-        "state": "正常"
-    },
-    {
-        "name": "唧唧down",
-        "web": "http://client.jijidown.com/",
-        "tags": [
-            "🔧工具",
-            "📺视频",
-            "📦资源"
-        ],
-        "brief": "这是一个用于下载 bilibili 视频的PC应用程序",
-        "state": "正常"
-    },
-    {
-        "name": "派欧云",
-        "web": "https://ppio.cn/",
-        "tags": [
-            "🤖AI",
-            "🔧工具",
-            "☁️云"
-        ],
-        "brief": "派欧算力云一站式AIGC云服务平台，提供高性能、高性价比的大模型API和GPU算力服务，无缝集成最前沿的AI推理技术，全面覆盖不同业务阶段的AI需求，加速AI业务发展。",
-        "state": "正常"
-    },
-    {
-        "name": "问小白",
-        "web": "https://www.wenxiaobai.com/chat",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "deepseek供应商",
-        "state": "正常"
-    },
-    {
-        "name": "幕布",
-        "web": "https://mubu.com/home",
-        "tags": [
-            "🧠学习"
-        ],
-        "brief": "思维导图网站",
-        "state": "正常"
-    },
-    {
-        "name": "Geek",
-        "web": "https://geekuninstaller.com/",
-        "tags": [
-            "🏠主页"
-        ],
-        "brief": "卸载工具的官网",
-        "state": "正常"
-    },
-    {
-        "name": "腾讯元宝",
-        "web": "https://yuanbao.tencent.com/chat/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "接入了 deepseek 支持图片识别",
-        "state": "正常"
-    },
-    {
-        "name": "Qwen",
-        "web": "https://chat.qwen.ai/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "Qwen2.5max",
-        "state": "正常"
-    },
-    {
-        "name": "flowith",
-        "web": "https://flowith.io/blank",
-        "tags": [
-            "🤖AI",
-            "🧠学习"
-        ],
-        "brief": "ai for work",
-        "state": "正常"
-    },
-    {
-        "name": "力扣",
-        "web": "https://leetcode.cn/",
-        "tags": [
-            "🐱Code",
-            "🧠学习"
-        ],
-        "brief": "题库",
-        "state": "正常"
-    },
-    {
-        "name": "DeepSeek",
-        "web": "https://chat.deepseek.com/",
-        "tags": [
-            "🤖AI"
-        ],
-        "brief": "国产 ai",
-        "state": "正常"
-    },
-    {
-        "name": "仓库分享",
-        "web": "https://socialify.git.ci/",
-        "tags": [
-            "🖼️图片",
-            "🐱Code"
-        ],
-        "brief": "生成 github 仓库分享图",
-        "state": "正常"
-    },
-    {
-        "name": "符号",
-        "web": "https://symbl.cc/",
-        "tags": [
-            "🔧工具",
-            "📦资源"
-        ],
-        "brief": "Unicode 字符百科",
         "state": "正常"
     },
     {
@@ -2518,130 +348,2300 @@
         "state": "正常"
     },
     {
-        "name": "Canva",
-        "web": "https://www.canva.cn",
+        "name": "符号",
+        "web": "https://symbl.cc/",
         "tags": [
-            "✒️设计"
+            "🔧工具",
+            "📦资源"
         ],
-        "brief": "轻松创建并分享专业设计。",
+        "brief": "Unicode 字符百科",
         "state": "正常"
     },
     {
-        "name": "识典古籍",
-        "web": "https://www.shidianguji.com/",
+        "name": "仓库分享",
+        "web": "https://socialify.git.ci/",
         "tags": [
+            "🖼️图片",
+            "🐱Code"
+        ],
+        "brief": "生成 github 仓库分享图",
+        "state": "正常"
+    },
+    {
+        "name": "DeepSeek",
+        "web": "https://chat.deepseek.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "国产 ai",
+        "state": "正常"
+    },
+    {
+        "name": "力扣",
+        "web": "https://leetcode.cn/",
+        "tags": [
+            "🐱Code",
+            "🧠学习"
+        ],
+        "brief": "题库",
+        "state": "正常"
+    },
+    {
+        "name": "flowith",
+        "web": "https://flowith.io/blank",
+        "tags": [
+            "🤖AI",
+            "🧠学习"
+        ],
+        "brief": "ai for work",
+        "state": "正常"
+    },
+    {
+        "name": "Vercel",
+        "web": "https://vercel.com/",
+        "tags": [
+            "🐱Code",
+            "☁️云"
+        ],
+        "brief": "搭建网站",
+        "state": "正常"
+    },
+    {
+        "name": "Qwen",
+        "web": "https://chat.qwen.ai/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "Qwen2.5max",
+        "state": "正常"
+    },
+    {
+        "name": "腾讯元宝",
+        "web": "https://yuanbao.tencent.com/chat/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "接入了 deepseek 支持图片识别",
+        "state": "正常"
+    },
+    {
+        "name": "Geek",
+        "web": "https://geekuninstaller.com/",
+        "tags": [
+            "🏠主页"
+        ],
+        "brief": "卸载工具的官网",
+        "state": "正常"
+    },
+    {
+        "name": "任务清单",
+        "web": "https://habitica.com/",
+        "tags": [
+            "✅效率"
+        ],
+        "brief": "用闯关的方式完成任务",
+        "state": "正常"
+    },
+    {
+        "name": "国家统计局",
+        "web": "http://www.stats.gov.cn/",
+        "tags": [
+            "🔢数据"
+        ],
+        "brief": "中国统计信息网",
+        "state": "正常"
+    },
+    {
+        "name": "幕布",
+        "web": "https://mubu.com/home",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "思维导图网站",
+        "state": "正常"
+    },
+    {
+        "name": "墨滴",
+        "web": "https://mdnice.com/",
+        "tags": [
+            "📒笔记",
+            "⚙️转换"
+        ],
+        "brief": "墨滴社区是一个看颜值的文章社区，技术、数学、文学文章汇集，极具趣味性，其开发的 mdnice 编辑器是一款 Markdown 微信编辑器。",
+        "state": "正常"
+    },
+    {
+        "name": "派欧云",
+        "web": "https://ppio.cn/",
+        "tags": [
+            "🤖AI",
+            "🔧工具",
+            "☁️云"
+        ],
+        "brief": "派欧算力云一站式AIGC云服务平台，提供高性能、高性价比的大模型API和GPU算力服务，无缝集成最前沿的AI推理技术，全面覆盖不同业务阶段的AI需求，加速AI业务发展。",
+        "state": "正常"
+    },
+    {
+        "name": "问小白",
+        "web": "https://www.wenxiaobai.com/chat",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "deepseek供应商",
+        "state": "正常"
+    },
+    {
+        "name": "唧唧down",
+        "web": "http://client.jijidown.com/",
+        "tags": [
+            "🔧工具",
+            "📺视频",
+            "📦资源"
+        ],
+        "brief": "这是一个用于下载 bilibili 视频的PC应用程序",
+        "state": "正常"
+    },
+    {
+        "name": "隔离食用",
+        "web": "https://cook.yunyoujun.cn/",
+        "tags": [
+            "🔹其他"
+        ],
+        "brief": "多种多样的菜谱任你选择",
+        "state": "正常"
+    },
+    {
+        "name": "Coze",
+        "web": "https://www.coze.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "一站式 AI Bot 开发平台（En）",
+        "state": "正常"
+    },
+    {
+        "name": "Jobs纪念馆",
+        "web": "https://stevejobsarchive.com/",
+        "tags": [
+            "🍎Apple",
+            "🔹其他"
+        ],
+        "brief": "乔布斯纪念网站",
+        "state": "正常"
+    },
+    {
+        "name": "密码测试",
+        "web": "https://www.passwordmonster.com/",
+        "tags": [
+            "🔧工具",
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "测试密码安全程度",
+        "state": "正常"
+    },
+    {
+        "name": "🍎传言",
+        "web": "https://www.macrumors.com/",
+        "tags": [
+            "🍎Apple",
+            "🗞️新闻"
+        ],
+        "brief": "关于苹果的新闻和传言",
+        "state": "正常"
+    },
+    {
+        "name": "台风网",
+        "web": "https://typhoon.slt.zj.gov.cn/#/",
+        "tags": [
+            "🔢数据",
+            "🔧工具"
+        ],
+        "brief": "查看台风路径",
+        "state": "正常"
+    },
+    {
+        "name": "Emojiall",
+        "web": "https://www.emojiall.com/zh-hans",
+        "tags": [
+            "📦资源",
+            "🔧工具"
+        ],
+        "brief": "emoji大全",
+        "state": "正常"
+    },
+    {
+        "name": "复制符",
+        "web": "https://fzf.0211120.xyz/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "快速查找特殊符号，一键复制",
+        "state": "正常"
+    },
+    {
+        "name": "表情百科",
+        "web": "https://emojipedia.org/zh",
+        "tags": [
+            "📦资源"
+        ],
+        "brief": "emoji 百科",
+        "state": "正常"
+    },
+    {
+        "name": "泡椒音乐",
+        "web": "https://pjmp3.com/",
+        "tags": [
+            "🎵音频"
+        ],
+        "brief": "免注册即可搜索、试听与下载。",
+        "state": "正常"
+    },
+    {
+        "name": "扣子",
+        "web": "https://www.coze.cn/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "一站式 AI Bot 开发平台（CN）",
+        "state": "正常"
+    },
+    {
+        "name": "即刻",
+        "web": "https://web.okjike.com/",
+        "tags": [
+            "📱数码",
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "与更多同好分享你的见闻与感受，每一个独到的声音，都值得被更多人倾听。",
+        "state": "正常"
+    },
+    {
+        "name": "Apple参数",
+        "web": "https://hubweb.cn/",
+        "tags": [
+            "🍎Apple"
+        ],
+        "brief": "Apple 苹果产品参数中心",
+        "state": "正常"
+    },
+    {
+        "name": "Youtube",
+        "web": "https://www.youtube.com/",
+        "tags": [
+            "📺视频"
+        ],
+        "brief": "需要魔法才能访问的视频平台",
+        "state": "正常"
+    },
+    {
+        "name": "Logo制作",
+        "web": "https://www.designevo.com/cn",
+        "tags": [
+            "🔧工具",
+            "♻︎图标"
+        ],
+        "brief": "一款专业制作Logo的免费软件",
+        "state": "正常"
+    },
+    {
+        "name": "钢笔工具",
+        "web": "https://bezier.method.ac/",
+        "tags": [
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "一个帮助你熟练掌握钢笔工具的网站",
+        "state": "正常"
+    },
+    {
+        "name": "拼图",
+        "web": "https://fulicat.com/lab/pintu/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "最简单的图片拼接网站",
+        "state": "正常"
+    },
+    {
+        "name": "中国色",
+        "web": "http://zhongguose.com/",
+        "tags": [
+            "🎈色彩"
+        ],
+        "brief": "提供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示",
+        "state": "正常"
+    },
+    {
+        "name": "W32DI",
+        "web": "https://win32diskimager.org/",
+        "tags": [
+            "🧰软件"
+        ],
+        "brief": "Win32DiskImager一个将原始磁盘映像写入可移动设备的程序",
+        "state": "正常"
+    },
+    {
+        "name": "Discord",
+        "web": "https://discord.com/app/",
+        "tags": [
+            "✏️协作",
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "在这里，您可以轻而易举地每日谈天说地，时常消遣娱乐",
+        "state": "正常"
+    },
+    {
+        "name": "纸由我",
+        "web": "https://paperme.toolooz.com/",
+        "tags": [
+            "🔧工具",
             "🧠学习",
             "📦资源"
         ],
-        "brief": "北大和字节开发一个古籍在线阅读平台",
+        "brief": "自定义打印纸生成器",
         "state": "正常"
     },
     {
-        "name": "RetroCard",
-        "web": "https://retro.iwhy.dev/",
+        "name": "AURA壁纸",
+        "web": "https://gallery.wallaura.cn",
+        "tags": [
+            "🖼️图片"
+        ],
+        "brief": "一个纯粹、简单、优雅的高清壁纸网站。",
+        "state": "正常"
+    },
+    {
+        "name": "sojson",
+        "web": "https://www.sojson.com/",
+        "tags": [
+            "⚙️转换"
+        ],
+        "brief": "json转换为其他的格式",
+        "state": "正常"
+    },
+    {
+        "name": "FirstWeb",
+        "web": "http://info.cern.ch/",
+        "tags": [
+            "🔹其他"
+        ],
+        "brief": "万维网第一个网页",
+        "state": "正常"
+    },
+    {
+        "name": "ChatMind",
+        "web": "https://www.chatmind.tech/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "AI生成思维导图的效率工具, 为用户提供智能化思维导图方案",
+        "state": "正常"
+    },
+    {
+        "name": "Steam",
+        "web": "https://store.steampowered.com/",
+        "tags": [
+            "🕹️游戏",
+            "🏠主页"
+        ],
+        "brief": "一个游戏集合的官网",
+        "state": "正常"
+    },
+    {
+        "name": "Figma",
+        "web": "https://www.figma.com/",
+        "tags": [
+            "✏️协作",
+            "✒️设计",
+            "🖼️图片"
+        ],
+        "brief": "Figma是一款协作设计工具，用于创建用户界面和原型。",
+        "state": "正常"
+    },
+    {
+        "name": "构石",
+        "web": "https://shitjournal.org/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "真理会过时，构石永恒。",
+        "state": "正常"
+    },
+    {
+        "name": "开发者搜索",
+        "web": "https://kaifa.baidu.com/",
+        "tags": [
+            "🐱Code",
+            "🧠学习",
+            "🔍搜索"
+        ],
+        "brief": "一个面向开发者的知识搜索平台",
+        "state": "正常"
+    },
+    {
+        "name": "Gridland",
+        "web": "https://gridland.doublespeakgames.com/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "表面上看起来是个简单的三消游戏，实际上有着非常硬核的昼夜交替生存机制。",
+        "state": "正常"
+    },
+    {
+        "name": "yorg",
+        "web": "https://yorg.io/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "这是一款结合了供应链管理和僵尸塔防的游戏。白天你需要铺设矿机、规划最优的资源运输网络，非常考验资源调度能力；到了晚上，则要利用收集到的资源建造防御阵地，抵御尸潮。",
+        "state": "正常"
+    },
+    {
+        "name": "小黑屋",
+        "web": "https://adarkroom.doublespeakgames.com/index.html?ignorebrowser=true&lang=zh_cn",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "极简的文字生存冒险游戏。开局屏幕上只有一个“生火”的按钮，随着剧情推进，你需要管理资源、分配工人，并带着有限的物资外出探索包含肉鸽元素的庞大地图。",
+        "state": "正常"
+    },
+    {
+        "name": "ITQuiz",
+        "web": "https://x.0211120.xyz/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "信息技术练习平台",
+        "state": "正常"
+    },
+    {
+        "name": "猫咪村庄",
+        "web": "https://kittensgame.com/web/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "一款极其硬核的纯文字资源管理游戏。你需要管理一个猫咪村庄，从砍树、采石开始，逐步发展出庞大的科技树、神学、甚至是太空工程。",
+        "state": "正常"
+    },
+    {
+        "name": "扫雷",
+        "web": "https://minesweeper.online/cn/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "这不是普通的扫雷。这是目前全网最专业的扫雷平台，包含了任务系统、装备掉落、全球排行榜和极高难度的超大地图。",
+        "state": "正常"
+    },
+    {
+        "name": "宇宙回形针",
+        "web": "https://www.decisionproblem.com/paperclips/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "你将扮演一个目标是“制造回形针”的 AI。游戏从点击制造单个回形针开始，随着算力和资源的积累，你会解锁自动交易、量子计算，最终走向探索宇宙和星际征服。",
+        "state": "正常"
+    },
+    {
+        "name": "Shapez",
+        "web": "https://shapez.io/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "一款极简风格的工厂建造游戏。",
+        "state": "正常"
+    },
+    {
+        "name": "荔枝商店",
+        "web": "https://lizhi.shop/",
+        "tags": [
+            "📱数码",
+            "🧰软件",
+            "🛒购物"
+        ],
+        "brief": "数码荔枝 x 软件商店 -  专注于分享最新鲜优秀的正版软件",
+        "state": "正常"
+    },
+    {
+        "name": "slidev",
+        "web": "https://cn.sli.dev/",
+        "tags": [
+            "🔧工具",
+            "🐱Code"
+        ],
+        "brief": "为开发者打造的演示文稿工具",
+        "state": "正常"
+    },
+    {
+        "name": "fixmac",
+        "web": "https://fix.qiaomu.ai/",
+        "tags": [
+            "🍎Apple"
+        ],
+        "brief": "提示「已损坏」或「无法验证开发者」？把应用拖进来，帮你生成修复命令",
+        "state": "正常"
+    },
+    {
+        "name": "HeroSMS",
+        "web": "https://hero-sms.com/cn",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "在线接收短信 & API 访问",
+        "state": "正常"
+    },
+    {
+        "name": "sbti",
+        "web": "https://sbti.unun.dev/",
+        "tags": [
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "MBTI已经过时，SBTI来了。",
+        "state": "正常"
+    },
+    {
+        "name": "Apple.cn",
+        "web": "https://www.apple.com.cn/",
+        "tags": [
+            "🍎Apple"
+        ],
+        "brief": "一个伟大公司的官网",
+        "state": "正常"
+    },
+    {
+        "name": "骇客新闻",
+        "web": "https://news.ycombinator.com/",
+        "tags": [
+            "📱数码",
+            "🗞️新闻"
+        ],
+        "brief": "一个专注于计算机科学和创业的社交新闻网站",
+        "state": "正常"
+    },
+    {
+        "name": "在线测试",
+        "web": "https://www.onlinemictest.com/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "提供各种测试工具",
+        "state": "正常"
+    },
+    {
+        "name": "IT之家",
+        "web": "https://www.ithome.com/",
+        "tags": [
+            "🗞️新闻",
+            "📱数码"
+        ],
+        "brief": "青岛软媒旗下的前沿科技门户网站",
+        "state": "正常"
+    },
+    {
+        "name": "B站封面",
+        "web": "https://bilicover.magecorn.com/",
         "tags": [
             "🖼️图片",
             "🔧工具"
         ],
-        "brief": "文字卡片制作工具",
+        "brief": "提取B站视频封面",
         "state": "正常"
     },
     {
-        "name": "Text2Card",
-        "web": "https://card.pomodiary.com/",
+        "name": "轻松传",
+        "web": "https://easychuan.cn/",
+        "tags": [
+            "📁文件"
+        ],
+        "brief": "轻松传文件到各种地方",
+        "state": "正常"
+    },
+    {
+        "name": "在线LaTeX",
+        "web": "https://cn.overleaf.com/",
+        "tags": [
+            "🐱Code",
+            "📒笔记"
+        ],
+        "brief": "在线 LaTeX 编辑器，无需安装，实时共享，版本控制，数百免费模板",
+        "state": "正常"
+    },
+    {
+        "name": "Cobalt",
+        "web": "https://cobalt.tools/",
         "tags": [
             "🔧工具",
-            "🖼️图片"
+            "📺视频"
         ],
-        "brief": "最简单的卡片制作工具，可记录您的想法和引言”",
+        "brief": "资源下载工具",
         "state": "正常"
     },
     {
-        "name": "Devv ai",
-        "web": "https://devv.ai/zh",
+        "name": "Slack",
+        "web": "https://slack.com/",
         "tags": [
-            "🤖AI",
+            "✏️协作",
+            "✅效率"
+        ],
+        "brief": "一个团队协作的网站",
+        "state": "正常"
+    },
+    {
+        "name": "Lightly",
+        "web": "https://lightly.teamcode.com/",
+        "tags": [
+            "🐱Code",
+            "☁️云"
+        ],
+        "brief": "在线编译工具，免费用户500Mb内存",
+        "state": "正常"
+    },
+    {
+        "name": "影视飓风",
+        "web": "https://www.ysjf.com/index",
+        "tags": [
+            "🕊️up主",
+            "🏠主页"
+        ],
+        "brief": "影视飓风官网",
+        "state": "正常"
+    },
+    {
+        "name": "ChatGPT",
+        "web": "https://chatgpt.com",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "OpenAi做的智能助手",
+        "state": "正常"
+    },
+    {
+        "name": "全渠道搜索",
+        "web": "http://dir.scmor.com/",
+        "tags": [
             "🔍搜索",
-            "🐱Code"
+            "🔧工具"
         ],
-        "brief": "一款专为程序员朋友设计的人工智能搜索引擎",
+        "brief": "各种搜索渠道",
         "state": "正常"
     },
     {
-        "name": "小报童",
-        "web": "https://xiaobot.net/home.html",
-        "tags": [
-            "🏠主页",
-            "👁️‍🗨️媒体"
-        ],
-        "brief": "付费专栏，体面而用心地创作",
-        "state": "正常"
-    },
-    {
-        "name": "Switch618",
-        "web": "https://www.switch618.com/",
-        "tags": [
-            "🕹️游戏",
-            "📦资源"
-        ],
-        "brief": "Switch618|免费Switch游戏PC游戏下载 - SWITCH618游戏公益分享",
-        "state": "正常"
-    },
-    {
-        "name": "RoutineHub",
-        "web": "https://routinehub.co/",
-        "tags": [
-            "🍎Apple"
-        ],
-        "brief": "发现、共享和版本控制 Apple 快捷指令",
-        "state": "正常"
-    },
-    {
-        "name": "Switch520",
-        "web": "https://www.gamer520.com/",
-        "tags": [
-            "📦资源",
-            "🕹️游戏"
-        ],
-        "brief": "switch游戏下载,PC游戏下载,switch破解游戏下载,PC破解游戏下载,Switch520,xxxxx520",
-        "state": "正常"
-    },
-    {
-        "name": "spaceship",
-        "web": "https://www.spaceship.com/zh/",
+        "name": "阿里云",
+        "web": "https://cn.aliyun.com/",
         "tags": [
             "☁️云"
         ],
-        "brief": "购买域名的网站",
+        "brief": "阿里云平台，图床服务",
         "state": "正常"
     },
     {
-        "name": "x2webp",
-        "web": "https://xtoimage.com/",
+        "name": "小红书",
+        "web": "https://www.xiaohongshu.com/explore",
+        "tags": [
+            "👁️‍🗨️媒体",
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "小红书 - 你的生活指南",
+        "state": "正常"
+    },
+    {
+        "name": "手写板",
+        "web": "https://excalidraw.com/",
+        "tags": [
+            "🧠学习",
+            "📒笔记"
+        ],
+        "brief": "手写效果白板工具",
+        "state": "正常"
+    },
+    {
+        "name": "食物图片",
+        "web": "https://www.foodiesfeed.com/",
+        "tags": [
+            "🖼️图片",
+            "📦资源"
+        ],
+        "brief": "搜索超过1802张免费美食照片",
+        "state": "正常"
+    },
+    {
+        "name": "快捷键库",
+        "web": "https://hotkeycheatsheet.com/zh",
         "tags": [
             "🔧工具"
         ],
-        "brief": "立即将 X 帖子转换为高质量的可共享图像",
+        "brief": "通过提供常用快捷键的快速访问来帮助用户提高生产力",
         "state": "正常"
     },
     {
-        "name": "飞牛",
-        "web": "https://www.fnnas.com/",
+        "name": "耳聆网",
+        "web": "https://www.ear0.com/",
+        "tags": [
+            "🎵音频",
+            "📦资源"
+        ],
+        "brief": "提供全面的声音资源和版权保护机制，满足各方面音频素材需求",
+        "state": "正常"
+    },
+    {
+        "name": "Phind",
+        "web": "https://phind.com/",
+        "tags": [
+            "🔍搜索",
+            "🐱Code"
+        ],
+        "brief": "面向程序员的搜索引擎",
+        "state": "正常"
+    },
+    {
+        "name": "Jumblie",
+        "web": "https://jumblie.com/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "每日挑战，找出混在一起的四个指定主题单词",
+        "state": "正常"
+    },
+    {
+        "name": "小红书创作",
+        "web": "https://creator.xiaohongshu.com",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "小红书后台",
+        "state": "正常"
+    },
+    {
+        "name": "Claude",
+        "web": "https://claude.ai/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "Anthropic公司开发的一个人工智能助手",
+        "state": "正常"
+    },
+    {
+        "name": "小米有品",
+        "web": "https://www.xiaomiyoupin.com/",
+        "tags": [
+            "🛒购物"
+        ],
+        "brief": "小米有品，购物平台",
+        "state": "正常"
+    },
+    {
+        "name": "网易新闻",
+        "web": "https://news.163.com/",
+        "tags": [
+            "🗞️新闻"
+        ],
+        "brief": "包含各种新闻的门户网站",
+        "state": "正常"
+    },
+    {
+        "name": "Pixabay",
+        "web": "https://pixabay.com/",
+        "tags": [
+            "🖼️图片",
+            "📦资源"
+        ],
+        "brief": "令人惊叹的免费图片和免版税库存",
+        "state": "正常"
+    },
+    {
+        "name": "今日头条",
+        "web": "https://www.toutiao.com/",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "字节跳动旗下文字和视频网站",
+        "state": "正常"
+    },
+    {
+        "name": "Telegraph",
+        "web": "https://telegra.ph/",
+        "tags": [
+            "📒笔记"
+        ],
+        "brief": "匿名发布文章",
+        "state": "正常"
+    },
+    {
+        "name": "闲鱼",
+        "web": "https://www.goofish.com/",
+        "tags": [
+            "🛒购物"
+        ],
+        "brief": "二手交易平台",
+        "state": "正常"
+    },
+    {
+        "name": "MongoDB",
+        "web": "https://cloud.mongodb.com/",
+        "tags": [
+            "🐱Code",
+            "🔢数据"
+        ],
+        "brief": "一种高性能、可扩展和灵活的开源文档数据库管理系统",
+        "state": "正常"
+    },
+    {
+        "name": "Horizons",
+        "web": "https://yx.g8hh.com/heart-of-galaxy-horizons/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "一款图文并茂的网页游戏",
+        "state": "正常"
+    },
+    {
+        "name": "Poe",
+        "web": "https://poe.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "Poe可让您提问、获得即时回答、并与AI机器人互动对话。",
+        "state": "正常"
+    },
+    {
+        "name": "抖音",
+        "web": "https://www.douyin.com/",
+        "tags": [
+            "⛹️‍♀️娱乐",
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "抖音 - 记录美好生活",
+        "state": "正常"
+    },
+    {
+        "name": "谷歌",
+        "web": "https://www.google.com/",
+        "tags": [
+            "🔍搜索"
+        ],
+        "brief": "需要魔法才能用的检索工具",
+        "state": "正常"
+    },
+    {
+        "name": "TMDB",
+        "web": "https://www.themoviedb.org/",
+        "tags": [
+            "🔢数据",
+            "📺视频"
+        ],
+        "brief": "一个电影数据库网站",
+        "state": "正常"
+    },
+    {
+        "name": "Github",
+        "web": "https://github.com/",
+        "tags": [
+            "🐱Code",
+            "✏️协作",
+            "☁️云"
+        ],
+        "brief": "存代码的地方",
+        "state": "正常"
+    },
+    {
+        "name": "全球logo",
+        "web": "https://www.logonews.cn/",
+        "tags": [
+            "🖼️图片",
+            "📦资源"
+        ],
+        "brief": "logo情报网站",
+        "state": "正常"
+    },
+    {
+        "name": "woc",
+        "web": "https://woc.space/",
         "tags": [
             "📁文件",
-            "🏠主页"
+            "✏️协作",
+            "☁️云"
         ],
-        "brief": "一个基于debian的nas系统",
+        "brief": "全球文件传输与协作平台",
         "state": "正常"
     },
     {
-        "name": "Ssgo",
-        "web": "https://ssgo.app/",
+        "name": "日本色",
+        "web": "https://nipponcolors.com/",
+        "tags": [
+            "🎈色彩"
+        ],
+        "brief": "日本传统颜色",
+        "state": "正常"
+    },
+    {
+        "name": "亚马逊",
+        "web": "https://www.amazon.cn/",
+        "tags": [
+            "🛒购物"
+        ],
+        "brief": "全球购物平台",
+        "state": "正常"
+    },
+    {
+        "name": "阿里云盘",
+        "web": "https://www.aliyundrive.com/",
+        "tags": [
+            "☁️云",
+            "📦资源"
+        ],
+        "brief": "一款速度快、不打扰、够安全、易于分享的网盘",
+        "state": "正常"
+    },
+    {
+        "name": "格式转换",
+        "web": "https://www.aconvert.com/cn/",
+        "tags": [
+            "⚙️转换"
+        ],
+        "brief": "内含多种格式转换",
+        "state": "正常"
+    },
+    {
+        "name": "青柠起始页",
+        "web": "https://limestart.cn/",
+        "tags": [
+            "🏠主页"
+        ],
+        "brief": "一个up主做的起始页，很精美",
+        "state": "正常"
+    },
+    {
+        "name": "颜色代码",
+        "web": "https://encycolorpedia.cn/html",
+        "tags": [
+            "🎈色彩",
+            "🐱Code"
+        ],
+        "brief": "提供很多的颜色、不同国家、不同应用场景",
+        "state": "正常"
+    },
+    {
+        "name": "爱给网",
+        "web": "https://www.aigei.com/",
+        "tags": [
+            "🎵音频",
+            "📦资源",
+            "📺视频"
+        ],
+        "brief": "中国最大的数字娱乐免费素材下载网站",
+        "state": "正常"
+    },
+    {
+        "name": "海棠诗社",
+        "web": "https://haitang.app/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "当科技与艺术融合，诗词创作从此变得更有趣",
+        "state": "正常"
+    },
+    {
+        "name": "学习通",
+        "web": "https://i.chaoxing.com/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "网课学习",
+        "state": "正常"
+    },
+    {
+        "name": "Theb.AI",
+        "web": "https://beta.theb.ai/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "一个基于API的聊天机器人 可选择多种模型",
+        "state": "正常"
+    },
+    {
+        "name": "比特虫.ico",
+        "web": "https://www.bitbug.net/",
+        "tags": [
+            "♻︎图标",
+            "✒️设计",
+            "⚙️转换"
+        ],
+        "brief": "制作网站图标的网站",
+        "state": "正常"
+    },
+    {
+        "name": "网易邮箱",
+        "web": "https://mail.163.com/",
+        "tags": [
+            "📧邮箱"
+        ],
+        "brief": "网易邮箱163、126",
+        "state": "正常"
+    },
+    {
+        "name": "爱奇艺体育",
+        "web": "https://ssports.iqiyi.com/",
+        "tags": [
+            "📺视频"
+        ],
+        "brief": "中国知名的体育赛事平台",
+        "state": "正常"
+    },
+    {
+        "name": "🍎Store",
+        "web": "https://www.apple.com.cn/retail/storelist/",
+        "tags": [
+            "🍎Apple",
+            "🛒购物"
+        ],
+        "brief": "中国苹果直营店位置",
+        "state": "正常"
+    },
+    {
+        "name": "拼字幕",
+        "web": "https://www.pinzimu.com/",
+        "tags": [
+            "🖼️图片",
+            "🔧工具"
+        ],
+        "brief": "一键免费生成字幕拼图",
+        "state": "正常"
+    },
+    {
+        "name": "CodeForces",
+        "web": "https://codeforces.com/",
+        "tags": [
+            "🐱Code"
+        ],
+        "brief": "一个俄罗斯的刷题网站，有模拟竞赛",
+        "state": "正常"
+    },
+    {
+        "name": "猫啃网",
+        "web": "https://www.maoken.com/",
+        "tags": [
+            "📦资源"
+        ],
+        "brief": "最新最全的可免费商用中文字体下载网站",
+        "state": "正常"
+    },
+    {
+        "name": "汉兜",
+        "web": "https://handle.antfu.me/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "汉字猜字游戏",
+        "state": "正常"
+    },
+    {
+        "name": "测速网",
+        "web": "https://www.speedtest.cn/",
+        "tags": [
+            "🕸️网络",
+            "🔧工具"
+        ],
+        "brief": "你的网速怎么样？",
+        "state": "正常"
+    },
+    {
+        "name": "Buzzing",
+        "web": "https://www.buzzing.cc/",
+        "tags": [
+            "🗞️新闻"
+        ],
+        "brief": "用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读",
+        "state": "正常"
+    },
+    {
+        "name": "微博",
+        "web": "https://weibo.com/",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "国内最大的媒体",
+        "state": "正常"
+    },
+    {
+        "name": "ChatExcel",
+        "web": "https://chatexcel.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "仅通过聊天来操控您的Excel表格",
+        "state": "正常"
+    },
+    {
+        "name": "中文手写板",
+        "web": "https://handraw.top/",
+        "tags": [
+            "🧠学习",
+            "📒笔记"
+        ],
+        "brief": "中文友好的手写白板工具",
+        "state": "正常"
+    },
+    {
+        "name": "知乎",
+        "web": "https://www.zhihu.com/",
+        "tags": [
+            "🧠学习",
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "看看别人怎么说？",
+        "state": "正常"
+    },
+    {
+        "name": "开源程序书",
+        "web": "https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md",
+        "tags": [
+            "🐱Code",
+            "🧠学习"
+        ],
+        "brief": "一些开源的程序书籍",
+        "state": "正常"
+    },
+    {
+        "name": "wccftech",
+        "web": "https://wccftech.com/",
+        "tags": [
+            "📱数码",
+            "🗞️新闻"
+        ],
+        "brief": "最新的硬件、移动数码、游戏的资讯",
+        "state": "正常"
+    },
+    {
+        "name": "Gemini",
+        "web": "https://gemini.google.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "谷歌人工智能的一个大型语言模型",
+        "state": "正常"
+    },
+    {
+        "name": "微信网页",
+        "web": "https://filehelper.weixin.qq.com/",
+        "tags": [
+            "📁文件"
+        ],
+        "brief": "微信传文件",
+        "state": "正常"
+    },
+    {
+        "name": "QQ邮箱",
+        "web": "https://mail.qq.com",
+        "tags": [
+            "📧邮箱"
+        ],
+        "brief": "腾讯邮箱",
+        "state": "正常"
+    },
+    {
+        "name": "图寻",
+        "web": "https://tuxun.fun/",
+        "tags": [
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "探索真实世界，收集线索，找出自己的位置",
+        "state": "正常"
+    },
+    {
+        "name": "Mac应用",
+        "web": "https://decrypt.day/",
+        "tags": [
+            "🍎Apple",
+            "🧰软件"
+        ],
+        "brief": "查找并下载最新解密的IPA应用程序",
+        "state": "正常"
+    },
+    {
+        "name": "-LKs-",
+        "web": "http://lkssite.vip/",
+        "tags": [
+            "🕊️up主"
+        ],
+        "brief": "一个墨镜区up做的网址大全",
+        "state": "正常"
+    },
+    {
+        "name": "油管解析",
+        "web": "https://fotoun.com/?p=161",
+        "tags": [
+            "🔧工具",
+            "📺视频"
+        ],
+        "brief": "YouTube视频在线解析网站",
+        "state": "正常"
+    },
+    {
+        "name": "开发文档",
+        "web": "https://wangdoc.com/",
+        "tags": [
+            "🐱Code",
+            "📒笔记",
+            "🧠学习"
+        ],
+        "brief": "提供高质量的、自主版权的、可以自由使用的中文软件文档",
+        "state": "正常"
+    },
+    {
+        "name": "硬件测试",
+        "web": "https://hardwaretester.com/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "提供手柄、GPU、麦克风以及midi功能的测试",
+        "state": "正常"
+    },
+    {
+        "name": "Groq",
+        "web": "https://groq.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "人工智能接口系统",
+        "state": "正常"
+    },
+    {
+        "name": "打字网站",
+        "web": "https://dazidazi.com/",
+        "tags": [
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "一个up主做的打字网站",
+        "state": "正常"
+    },
+    {
+        "name": "谷歌学术",
+        "web": "https://scholar.google.com.hk/?hl=zh-CN",
+        "tags": [
+            "🧠学习",
+            "🔍搜索"
+        ],
+        "brief": "轻松地大范围搜索学术文献",
+        "state": "正常"
+    },
+    {
+        "name": "芒果商城",
+        "web": "https://www.mgidshop.com/",
+        "tags": [
+            "🍎Apple",
+            "🛒购物"
+        ],
+        "brief": "购买日区美区小火箭、美区苹果ID",
+        "state": "正常"
+    },
+    {
+        "name": "汤姆硬件",
+        "web": "https://www.tomshardware.com/news",
+        "tags": [
+            "📱数码",
+            "🗞️新闻"
+        ],
+        "brief": "Tom's Hardware 是您进入科技世界的专家指南",
+        "state": "正常"
+    },
+    {
+        "name": "唤醒",
+        "web": "https://www.keepscreenon.com/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "保持屏幕唤醒",
+        "state": "正常"
+    },
+    {
+        "name": "SIcon",
+        "web": "https://simpleicons.org/",
+        "tags": [
+            "🐱Code",
+            "♻︎图标"
+        ],
+        "brief": "SimpleIcons包含很多种流行品牌的免费 SVG 图标库",
+        "state": "正常"
+    },
+    {
+        "name": "据义查句",
+        "web": "https://wantquotes.net/",
+        "tags": [
+            "🧠学习",
+            "🔧工具"
+        ],
+        "brief": "根据意思来查找名人名言",
+        "state": "正常"
+    },
+    {
+        "name": "🐒type",
+        "web": "https://monkeytype.com/",
+        "tags": [
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "练习打字的网站",
+        "state": "正常"
+    },
+    {
+        "name": "腾讯文档",
+        "web": "https://doc.weixin.qq.com/",
+        "tags": [
+            "📒笔记",
+            "✏️协作",
+            "📁文件"
+        ],
+        "brief": "腾讯旗下的协作工具",
+        "state": "正常"
+    },
+    {
+        "name": "代码高亮",
+        "web": "http://word.wd1x.com/",
+        "tags": [
+            "🐱Code",
+            "📒笔记"
+        ],
+        "brief": "在线生成可以在word/PPT中高亮的代码，支持各类主流语言在线着色",
+        "state": "正常"
+    },
+    {
+        "name": "微信公众",
+        "web": "https://mp.weixin.qq.com/",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "公众号和小程序的后台",
+        "state": "正常"
+    },
+    {
+        "name": "飞桨",
+        "web": "https://aistudio.baidu.com/aistudio/index",
+        "tags": [
+            "🐱Code",
+            "☁️云"
+        ],
+        "brief": "一个强大且易用的开源深度学习平台",
+        "state": "正常"
+    },
+    {
+        "name": "Pexels",
+        "web": "https://www.pexels.com/zh-cn/",
+        "tags": [
+            "🖼️图片",
+            "📦资源"
+        ],
+        "brief": "摄影作者在这里免费分享最精彩的素材图片和视频",
+        "state": "正常"
+    },
+    {
+        "name": "世界名画",
+        "web": "https://www.nbfox.com/",
+        "tags": [
+            "🖼️图片",
+            "📦资源"
+        ],
+        "brief": "高清著名画作",
+        "state": "正常"
+    },
+    {
+        "name": "Git文档",
+        "web": "https://gitee.com/progit/index.html",
+        "tags": [
+            "🐱Code",
+            "🧠学习",
+            "📒笔记"
+        ],
+        "brief": "快来学习Git！",
+        "state": "正常"
+    },
+    {
+        "name": "哔哩哔哩",
+        "web": "https://www.bilibili.com/",
+        "tags": [
+            "📺视频",
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "一个看视频的网站",
+        "state": "正常"
+    },
+    {
+        "name": "软件目录",
+        "web": "https://www.yuque.com/books/share/ec226b31-5272-4792-811b-c22334cf0a9a?#%20%E3%80%8A%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95%E3%80%8B",
+        "tags": [
+            "🧰软件"
+        ],
+        "brief": "一些付费软件的免费安装包",
+        "state": "正常"
+    },
+    {
+        "name": "itellyou",
+        "web": "https://next.itellyou.cn/",
+        "tags": [
+            "🧰软件"
+        ],
+        "brief": "操作系统镜像|windows|linux",
+        "state": "正常"
+    },
+    {
+        "name": "🫂Chat",
+        "web": "https://huggingface.co/chat/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "让社区最好的AI聊天模型面向所有人开放。",
+        "state": "正常"
+    },
+    {
+        "name": "菜鸟教程",
+        "web": "https://www.runoob.com/",
+        "tags": [
+            "🐱Code",
+            "🧠学习"
+        ],
+        "brief": "提供了编程的基础技术教程",
+        "state": "正常"
+    },
+    {
+        "name": "云盘资源",
+        "web": "https://www.aliyunpanziyuan.com/",
+        "tags": [
+            "📦资源",
+            "🔍搜索"
+        ],
+        "brief": "阿里云盘资源网-网盘资源共享平台",
+        "state": "正常"
+    },
+    {
+        "name": "深言达意",
+        "web": "https://shenyandayi.com/",
+        "tags": [
+            "🤖AI",
+            "🧠学习"
+        ],
+        "brief": "清华开发的根据句子找词的工具，基于AI模型",
+        "state": "正常"
+    },
+    {
+        "name": "硅基流动",
+        "web": "https://siliconflow.cn/zh-cn/siliconcloud",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "提供免费的国产大模型api",
+        "state": "正常"
+    },
+    {
+        "name": "找鼠标",
+        "web": "https://pointerpointer.com/",
+        "tags": [
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "你的鼠标在哪都能被找到",
+        "state": "正常"
+    },
+    {
+        "name": "腾讯云",
+        "web": "https://cloud.tencent.com/",
+        "tags": [
+            "☁️云"
+        ],
+        "brief": "腾讯云平台，云主机",
+        "state": "正常"
+    },
+    {
+        "name": "图标库",
+        "web": "https://www.iconfont.cn/",
+        "tags": [
+            "♻︎图标",
+            "✒️设计"
+        ],
+        "brief": "可以找到很多官方图标",
+        "state": "正常"
+    },
+    {
+        "name": "AColor",
+        "web": "https://color.adobe.com/",
+        "tags": [
+            "🎈色彩"
+        ],
+        "brief": "Adobe的一个配色网站",
+        "state": "正常"
+    },
+    {
+        "name": "矩阵计算",
+        "web": "https://m.matrix.reshish.com/zh/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "最为便捷的在线矩阵计算器",
+        "state": "正常"
+    },
+    {
+        "name": "Netlify",
+        "web": "https://app.netlify.com/",
+        "tags": [
+            "🐱Code",
+            "☁️云"
+        ],
+        "brief": "一个免服务器构建网页的网站",
+        "state": "正常"
+    },
+    {
+        "name": "PH风格",
+        "web": "https://logoly.pro/",
+        "tags": [
+            "⛹️‍♀️娱乐",
+            "♻︎图标",
+            "🖼️图片"
+        ],
+        "brief": "在线的 PornHub 风格 Logo 生成工具",
+        "state": "正常"
+    },
+    {
+        "name": "网站图标",
+        "web": "https://fontawesome.com/",
+        "tags": [
+            "♻︎图标",
+            "🐱Code"
+        ],
+        "brief": "一些图标",
+        "state": "正常"
+    },
+    {
+        "name": "连通性检验",
+        "web": "https://ip.skk.moe/",
+        "tags": [
+            "🕸️网络",
+            "🔧工具"
+        ],
+        "brief": "检测你的电脑是否能连接一些节点",
+        "state": "正常"
+    },
+    {
+        "name": "微信读书",
+        "web": "https://weread.qq.com/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "一个看书的网站",
+        "state": "正常"
+    },
+    {
+        "name": "UU工具",
+        "web": "https://uutool.cn/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "很多的工具",
+        "state": "正常"
+    },
+    {
+        "name": "离谱相关性",
+        "web": "http://tylervigen.com/spurious-correlations",
+        "tags": [
+            "⛹️‍♀️娱乐",
+            "🔹其他"
+        ],
+        "brief": "什么是离谱的呢？",
+        "state": "正常"
+    },
+    {
+        "name": "淘宝",
+        "web": "https://www.taobao.com/",
+        "tags": [
+            "🛒购物"
+        ],
+        "brief": "买！买！买！",
+        "state": "正常"
+    },
+    {
+        "name": "DS可视化",
+        "web": "https://visualgo.net/",
+        "tags": [
+            "🐱Code",
+            "🧠学习"
+        ],
+        "brief": "数据结构和算法动态可视化",
+        "state": "正常"
+    },
+    {
+        "name": "飞布API",
+        "web": "https://www.fireboom.io/",
+        "tags": [
+            "🐱Code",
+            "☁️云"
+        ],
+        "brief": "可视化API开发平台",
+        "state": "正常"
+    },
+    {
+        "name": "豆包AI",
+        "web": "https://www.doubao.com/chat/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "抖音旗下的AI助手",
+        "state": "正常"
+    },
+    {
+        "name": "80S",
+        "web": "https://www.80sgod.com/",
+        "tags": [
+            "📺视频"
+        ],
+        "brief": "提供最新高清MP4电影,电视剧,动漫下载.采用迅雷磁力链方式下载",
+        "state": "正常"
+    },
+    {
+        "name": "商量",
+        "web": "https://chat.sensetime.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "商汤自研的超千亿参数语言大模型应用平台",
+        "state": "正常"
+    },
+    {
+        "name": "渐变色",
+        "web": "https://uigradients.com/",
+        "tags": [
+            "🎈色彩"
+        ],
+        "brief": "提供上百种渐变色",
+        "state": "正常"
+    },
+    {
+        "name": "油猴脚本",
+        "web": "https://greasyfork.org/zh-CN",
+        "tags": [
+            "🔧工具",
+            "🧰软件"
+        ],
+        "brief": "这里是一个提供用户脚本的网站",
+        "state": "正常"
+    },
+    {
+        "name": "SpeedTest",
+        "web": "https://speed.cloudflare.com/",
+        "tags": [
+            "🕸️网络",
+            "🔧工具"
+        ],
+        "brief": "Cloudflare的测速工具",
+        "state": "正常"
+    },
+    {
+        "name": "DeepL",
+        "web": "https://www.deepl.com/translator",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "一个很好用的翻译网站",
+        "state": "正常"
+    },
+    {
+        "name": "LaTeX公式",
+        "web": " https://www.latexlive.com/",
+        "tags": [
+            "🐱Code",
+            "📒笔记"
+        ],
+        "brief": "在线编辑LaTeX公式的工具",
+        "state": "正常"
+    },
+    {
+        "name": "视频号",
+        "web": "https://channels.weixin.qq.com/",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "微信视频号",
+        "state": "正常"
+    },
+    {
+        "name": "01万物",
+        "web": "https://lingyiwanwu.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "AI工作平台与大模型开发平台",
+        "state": "正常"
+    },
+    {
+        "name": "Kaggle",
+        "web": "https://www.kaggle.com/",
+        "tags": [
+            "🔢数据",
+            "🧠学习"
+        ],
+        "brief": "找一些成品的数据文件以及其他开发者对数据的处理",
+        "state": "正常"
+    },
+    {
+        "name": "fydeos",
+        "web": "https://fydeos.com/",
+        "tags": [
+            "🧰软件",
+            "🏠主页"
+        ],
+        "brief": "基于chromeos的一个桌面系统",
+        "state": "正常"
+    },
+    {
+        "name": "图形计算器",
+        "web": "https://www.desmos.com/calculator?lang=zh-CN",
+        "tags": [
+            "🧠学习",
+            "🖼️图片"
+        ],
+        "brief": "绘制函数图形并进行可视化",
+        "state": "正常"
+    },
+    {
+        "name": "面试鸭",
+        "web": "https://www.mianshiya.com/",
+        "tags": [
+            "🧠学习",
+            "🐱Code"
+        ],
+        "brief": "提供了很多面试题",
+        "state": "正常"
+    },
+    {
+        "name": "在线剪视频",
+        "web": "https://online-video-cutter.com/cn/",
+        "tags": [
+            "🔧工具",
+            "📺视频"
+        ],
+        "brief": "从任何在线视频中剪切片段",
+        "state": "正常"
+    },
+    {
+        "name": "拼接音视频",
+        "web": "https://maple3142.github.io/mergemp4/",
+        "tags": [
+            "🔧工具",
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "将音频和视频拼到一起（不负责对齐）",
+        "state": "正常"
+    },
+    {
+        "name": "9to5mac",
+        "web": "https://9to5mac.com/",
+        "tags": [
+            "🍎Apple",
+            "🗞️新闻"
+        ],
+        "brief": "苹果新闻和传言",
+        "state": "正常"
+    },
+    {
+        "name": "赛博佛祖",
+        "web": "https://fozu.ink/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "一个配备有ChatGPT的佛陪伴在您的身边",
+        "state": "正常"
+    },
+    {
+        "name": "OpenArt",
+        "web": "https://openart.ai/home",
+        "tags": [
+            "🖼️图片",
+            "🤖AI"
+        ],
+        "brief": "AI艺术生成器",
+        "state": "正常"
+    },
+    {
+        "name": "即时工具",
+        "web": "https://www.67tool.com/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "一些工具",
+        "state": "正常"
+    },
+    {
+        "name": "站长之家",
+        "web": "https://tool.chinaz.com/",
+        "tags": [
+            "🔧工具",
+            "🕸️网络"
+        ],
+        "brief": "提供各种查询工具",
+        "state": "正常"
+    },
+    {
+        "name": "MD排版",
+        "web": "https://md.guozh.net/",
+        "tags": [
+            "⚙️转换",
+            "📒笔记"
+        ],
+        "brief": "让markdown可以很好的发在公众号上",
+        "state": "正常"
+    },
+    {
+        "name": "谷歌翻译",
+        "web": "https://translate.google.com/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "（也许）需要魔法才能用的翻译工具",
+        "state": "正常"
+    },
+    {
+        "name": "新榜",
+        "web": "https://newrank.cn/",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "更多更好的KOL自媒体，品效合一的传播销售方案，尽在新榜",
+        "state": "正常"
+    },
+    {
+        "name": "耳机评测站",
+        "web": "https://www.woodenears.com/",
+        "tags": [
+            "📱数码"
+        ],
+        "brief": "耳机测评网站",
+        "state": "正常"
+    },
+    {
+        "name": "Jetbrains",
+        "web": "https://www.jetbrains.com/zh-cn/",
+        "tags": [
+            "🐱Code",
+            "🧰软件",
+            "🏠主页"
+        ],
+        "brief": "为专业人士和团队制作开发者工具",
+        "state": "正常"
+    },
+    {
+        "name": "图司机",
+        "web": "https://www.tusij.com/",
+        "tags": [
+            "🖼️图片",
+            "✒️设计"
+        ],
+        "brief": "简单修图网页",
+        "state": "正常"
+    },
+    {
+        "name": "OTP",
+        "web": "https://otp.landian.vip/zh-cn/",
+        "tags": [
+            "🧰软件",
+            "🔧工具"
+        ],
+        "brief": "OfficeToolPlus软件的工具网页",
+        "state": "正常"
+    },
+    {
+        "name": "wallhaven",
+        "web": "https://wallhaven.cc/",
+        "tags": [
+            "🖼️图片",
+            "📦资源"
+        ],
+        "brief": "好看高清壁纸",
+        "state": "正常"
+    },
+    {
+        "name": "慕课",
+        "web": "https://www.icourse163.org/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "网课，内含很多精品公开课",
+        "state": "正常"
+    },
+    {
+        "name": "知网",
+        "web": "https://www.cnki.net/",
+        "tags": [
+            "🧠学习",
+            "📦资源"
+        ],
+        "brief": "面向读者提供各类学术资源统一检索、统一导航、在线阅读和下载服务",
+        "state": "正常"
+    },
+    {
+        "name": "Gitee",
+        "web": "https://gitee.com/",
+        "tags": [
+            "🐱Code",
+            "☁️云",
+            "✏️协作"
+        ],
+        "brief": "存代码用的，国内访问很快",
+        "state": "正常"
+    },
+    {
+        "name": "字幕库",
+        "web": "https://zmk.pw/",
+        "tags": [
+            "📦资源"
+        ],
+        "brief": "字幕下载网站",
+        "state": "正常"
+    },
+    {
+        "name": "网页存档",
+        "web": "https://archive.ph/",
+        "tags": [
+            "📒笔记",
+            "🔢数据"
+        ],
+        "brief": "将网页永久保存，即使原来的消失了，仍然可以通过存档查看网页内容",
+        "state": "正常"
+    },
+    {
+        "name": "Gmail",
+        "web": "https://mail.google.com/mail/",
+        "tags": [
+            "📧邮箱"
+        ],
+        "brief": "谷歌邮箱",
+        "state": "正常"
+    },
+    {
+        "name": "DuckGo",
+        "web": "https://start.duckduckgo.com/",
+        "tags": [
+            "🔍搜索"
+        ],
+        "brief": "搜索但保护你的隐私",
+        "state": "正常"
+    },
+    {
+        "name": "敲字背单词",
+        "web": "https://qwerty.kaiyi.cool/",
+        "tags": [
+            "🧠学习",
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件",
+        "state": "正常"
+    },
+    {
+        "name": "在线工具",
+        "web": "https://tool.lu/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "有很多各式各样的在线工具",
+        "state": "正常"
+    },
+    {
+        "name": "SOC-PK",
+        "web": "https://www.socpk.com/",
+        "tags": [
+            "📱数码"
+        ],
+        "brief": "极客湾做的移动芯片排行",
+        "state": "正常"
+    },
+    {
+        "name": "一网一匠",
+        "web": "https://ywyj.cn/",
+        "tags": [
+            "🔧工具",
+            "🕊️up主"
+        ],
+        "brief": "一个up主叫一网一匠做的主页",
+        "state": "正常"
+    },
+    {
+        "name": "秒搜",
+        "web": "https://miaosou.fun/",
         "tags": [
             "🔍搜索",
             "📦资源"
         ],
-        "brief": "阿里云盘搜索引擎",
+        "brief": "一个很好用的网盘资源搜索引擎",
+        "state": "正常"
+    },
+    {
+        "name": "Typora",
+        "web": "https://www.typoraio.cn/",
+        "tags": [
+            "📒笔记"
+        ],
+        "brief": "一款 Markdown 编辑器和阅读器",
+        "state": "正常"
+    },
+    {
+        "name": "文心一言",
+        "web": "https://yiyan.baidu.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "百度的大语言模型",
+        "state": "正常"
+    },
+    {
+        "name": "processon",
+        "web": "https://www.processon.com/",
+        "tags": [
+            "🖼️图片",
+            "🧠学习"
+        ],
+        "brief": "流程清晰可见",
+        "state": "正常"
+    },
+    {
+        "name": "INS",
+        "web": "https://www.instagram.com/",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "一款Meta的社交媒体平台",
+        "state": "正常"
+    },
+    {
+        "name": "进化",
+        "web": "https://evolve.g8hh.com/",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "从原生质开始，逐步解锁高级生命形式，开启属于自己的文明",
+        "state": "正常"
+    },
+    {
+        "name": "星标历史",
+        "web": "https://star-history.com/",
+        "tags": [
+            "🐱Code",
+            "🖼️图片"
+        ],
+        "brief": "GitHub上缺失的星标历史图，star-history",
+        "state": "正常"
+    },
+    {
+        "name": "pylib",
+        "web": "https://docs.python.org/zh-cn/3/library/",
+        "tags": [
+            "🐱Code",
+            "🧠学习"
+        ],
+        "brief": "语言参考手册描述了Python的语法和语义，库参考则介绍了Python标准库",
+        "state": "正常"
+    },
+    {
+        "name": "免费歌曲",
+        "web": "https://tool.liumingye.cn/music/#/",
+        "tags": [
+            "🎵音频"
+        ],
+        "brief": "免费下载歌曲",
+        "state": "正常"
+    },
+    {
+        "name": "Notion头像",
+        "web": "https://notion-avatar.vercel.app/zh",
+        "tags": [
+            "✒️设计",
+            "🖼️图片"
+        ],
+        "brief": "制作notion风格的头像",
+        "state": "正常"
+    },
+    {
+        "name": "7ED",
+        "web": "https://www.7ed.net/",
+        "tags": [
+            "🕸️网络",
+            "🔧工具"
+        ],
+        "brief": "包含静态资源 CDN 加速服务、Git 资源加速服务、海外图片内地加速服务、Bing 每日图片 API等。",
+        "state": "正常"
+    },
+    {
+        "name": "W3school",
+        "web": "https://www.w3school.com.cn/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "全球最大的中文 Web 技术教程",
+        "state": "正常"
+    },
+    {
+        "name": "Notion",
+        "web": "https://www.notion.so/",
+        "tags": [
+            "✏️协作",
+            "📒笔记",
+            "✅效率"
+        ],
+        "brief": "一款功能强大的协作工具和笔记应用",
+        "state": "正常"
+    },
+    {
+        "name": "cal计算器",
+        "web": "https://www.calculator.net/calorie-calculator.html",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "估算每天需要摄入的卡路里数量，以维持、减重或增重",
+        "state": "正常"
+    },
+    {
+        "name": "BibiGPT",
+        "web": "https://b.jimmylv.cn/",
+        "tags": [
+            "🤖AI",
+            "📒笔记",
+            "📺视频"
+        ],
+        "brief": "一键总结音视频",
+        "state": "正常"
+    },
+    {
+        "name": "重开模拟器",
+        "web": "https://liferestart.syaro.io/public/index.html",
+        "tags": [
+            "🕹️游戏"
+        ],
+        "brief": "如果能重来~",
+        "state": "正常"
+    },
+    {
+        "name": "打开文件",
+        "web": "https://openfiles.online/",
+        "tags": [
+            "🔧工具"
+        ],
+        "brief": "无需下载软件，在线打开图片、文本、视频、音频、压缩包，让工作更轻松",
+        "state": "正常"
+    },
+    {
+        "name": "Outlook",
+        "web": "https://outlook.live.com/mail/",
+        "tags": [
+            "📧邮箱"
+        ],
+        "brief": "微软邮箱",
+        "state": "正常"
+    },
+    {
+        "name": "徽章制作",
+        "web": "https://shields.io/",
+        "tags": [
+            "🐱Code",
+            "♻︎图标"
+        ],
+        "brief": "提供各种服务的简洁、一致的易读徽章（badge、徽标）",
+        "state": "正常"
+    },
+    {
+        "name": "X",
+        "web": "https://x.com",
+        "tags": [
+            "👁️‍🗨️媒体"
+        ],
+        "brief": "推特，已被马斯克收购",
+        "state": "正常"
+    },
+    {
+        "name": "ChatPDF",
+        "web": "https://www.chatpdf.com/",
+        "tags": [
+            "🤖AI"
+        ],
+        "brief": "ChatPDF是一种快速简便的方法，可以与任何PDF文件进行对话",
+        "state": "正常"
+    },
+    {
+        "name": "播客搜索",
+        "web": "https://pod.link/",
+        "tags": [
+            "🔧工具",
+            "🎵音频"
+        ],
+        "brief": "搜索播客的网站",
+        "state": "正常"
+    },
+    {
+        "name": "空投",
+        "web": "https://airportal.cn/",
+        "tags": [
+            "📁文件"
+        ],
+        "brief": "快速传文件",
+        "state": "正常"
+    },
+    {
+        "name": "数学求解",
+        "web": "https://zs.symbolab.com/",
+        "tags": [
+            "🧠学习"
+        ],
+        "brief": "Symbolab：方程搜索和数学求解器 - 一步步求解代数,三角函数和微积分问题",
+        "state": "正常"
+    },
+    {
+        "name": " Civitai",
+        "web": "https://civitai.com/",
+        "tags": [
+            "🤖AI",
+            "🖼️图片"
+        ],
+        "brief": "Civitai是一个专注于分享和交流AI生成艺术及其相关资源的社区平台。",
+        "state": "正常"
+    },
+    {
+        "name": "少数派",
+        "web": "https://sspai.com/",
+        "tags": [
+            "📱数码",
+            "👁️‍🗨️媒体",
+            "🗞️新闻"
+        ],
+        "brief": "写文字的平台，数码科技相关",
+        "state": "正常"
+    },
+    {
+        "name": "找图标",
+        "web": "https://pushkeen.ai/appstore-icons",
+        "tags": [
+            "✒️设计",
+            "🔍搜索"
+        ],
+        "brief": "快速下载appstore的图标",
+        "state": "正常"
+    },
+    {
+        "name": "CSDN",
+        "web": "https://www.csdn.net/",
+        "tags": [
+            "🐱Code",
+            "🔍搜索"
+        ],
+        "brief": "代码有关的问题来问我",
+        "state": "正常"
+    },
+    {
+        "name": "Topbook",
+        "web": "https://topbook.cc/overview",
+        "tags": [
+            "🕊️up主",
+            "🏠主页",
+            "✅效率"
+        ],
+        "brief": "一个百科全书",
+        "state": "正常"
+    },
+    {
+        "name": "XFastest",
+        "web": "https://news.xfastest.com/",
+        "tags": [
+            "🗞️新闻"
+        ],
+        "brief": "香港科技新闻网站",
         "state": "正常"
     }
 ]
