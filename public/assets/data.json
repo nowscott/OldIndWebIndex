@@ -1,5 +1,15 @@
 [
     {
+        "name": "礼卡猫",
+        "web": "https://www.likamao.com/r/C6VK85EG",
+        "tags": [
+            "🍎Apple",
+            "🛒购物"
+        ],
+        "brief": "美国,欧洲礼品卡,自动发卡,面值自定",
+        "state": "正常"
+    },
+    {
         "name": "sbti",
         "web": "https://sbti.unun.dev/",
         "tags": [
